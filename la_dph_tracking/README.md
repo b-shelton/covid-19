@@ -1,7 +1,7 @@
 # L.A. County Department of Public Health: Confirmed COVID-19 Cases Tracker
 
 ### Purpose
-This folder's [la_dph_tracking.py](https://github.com/b-shelton/covid-19/blob/master/la_dph_tracking/la_dph_tracking.py) script appends daily updates from the L.A. County public health website of various coronavirus counts. A job is scheduled to check the County webpage for updates at the top of every hour. Currently, the updates occur once per day.
+This folder's [la_dph_tracking.py](https://github.com/b-shelton/covid-19/blob/master/la_dph_tracking/la_dph_tracking.py) script appends daily updates from the L.A. County public health website of confirmed COVID-19 counts. A job is scheduled to check the County webpage for updates at the top of every hour. Currently, the updates occur once per day.
 
 L.A. County DPH Confirmed Tracking site: http://publichealth.lacounty.gov/media/Coronavirus/locations.htm
 
