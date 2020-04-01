@@ -9,8 +9,8 @@ the maximum date on the file, then this scrapes, formats, and appends the webpag
 content to the existing file. If the webpage date is not later than the maximum
 date on the file, it simply notifies the developer that no update has occurred.
 
-author: brandon shelton
-last update: 2020-04-01
+Author: Brandon Shelton
+Last update: 2020-04-01
 '''
 
 # set path to save output file and update log file
