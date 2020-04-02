@@ -4,50 +4,61 @@ date,section,row_name,count
 03-30,age group,0 to 17,37
 03-31,age group,0 to 17,27
 04-01,age group,0 to 17,32
+04-02,age group,0 to 17,36
 03-28,age group,18 to 40,674
 03-29,age group,18 to 40,812
 03-30,age group,18 to 40,918
 03-31,age group,18 to 40,1101
 04-01,age group,18 to 40,1228
+04-02,age group,18 to 40,1385
 03-28,age group,41 to 65,676
 03-29,age group,41 to 65,797
 03-30,age group,41 to 65,943
 03-31,age group,41 to 65,1172
 04-01,age group,41 to 65,1399
+04-02,age group,41 to 65,1630
 03-28,age group,over 65,343
 03-29,age group,over 65,395
 03-30,age group,over 65,467
 03-31,age group,over 65,553
 04-01,age group,over 65,669
+04-02,age group,over 65,787
 03-31,age group,unknown,18
 04-01,age group,unknown,24
+04-02,age group,unknown,31
 03-28,city/community,city of agoura hills,9
 03-29,city/community,city of agoura hills,9
 03-30,city/community,city of agoura hills,9
 03-31,city/community,city of agoura hills,11
 04-01,city/community,city of agoura hills,10
+04-02,city/community,city of agoura hills,14
 03-28,city/community,city of alhambra,10
 03-29,city/community,city of alhambra,10
 03-30,city/community,city of alhambra,11
 03-31,city/community,city of alhambra,13
 04-01,city/community,city of alhambra,13
+04-02,city/community,city of alhambra,15
 03-28,city/community,city of arcadia,8
 03-29,city/community,city of arcadia,9
 03-30,city/community,city of arcadia,9
 03-31,city/community,city of arcadia,10
 04-01,city/community,city of arcadia,12
+04-02,city/community,city of arcadia,12
 03-28,city/community,city of artesia,0
 03-29,city/community,city of artesia,0
 03-30,city/community,city of artesia,0
 03-31,city/community,city of artesia,0
 04-01,city/community,city of artesia,0
+04-02,city/community,city of artesia,0
 03-28,city/community,city of avalon,0
 03-29,city/community,city of avalon,0
 03-30,city/community,city of avalon,0
 03-31,city/community,city of avalon,0
 04-01,city/community,city of avalon,0
+04-02,city/community,city of avalon,0
 03-31,city/community,city of azusa,5
 04-01,city/community,city of azusa,7
+04-02,city/community,city of azusa,8
 03-28,city/community,city of azuza,1
 03-29,city/community,city of azuza,2
 03-30,city/community,city of azuza,3
@@ -56,206 +67,247 @@ date,section,row_name,count
 03-30,city/community,city of baldwin park,0
 03-31,city/community,city of baldwin park,2
 04-01,city/community,city of baldwin park,3
+04-02,city/community,city of baldwin park,5
 03-28,city/community,city of bell,5
 03-29,city/community,city of bell,6
 03-30,city/community,city of bell,11
 03-31,city/community,city of bell,12
 04-01,city/community,city of bell,12
+04-02,city/community,city of bell,14
 03-28,city/community,city of bell gardens,1
 03-29,city/community,city of bell gardens,1
 03-30,city/community,city of bell gardens,2
 03-31,city/community,city of bell gardens,4
 04-01,city/community,city of bell gardens,5
+04-02,city/community,city of bell gardens,5
 03-28,city/community,city of bellflower,12
 03-29,city/community,city of bellflower,14
 03-30,city/community,city of bellflower,17
 03-31,city/community,city of bellflower,20
 04-01,city/community,city of bellflower,23
+04-02,city/community,city of bellflower,24
 03-28,city/community,city of beverly hills,21
 03-29,city/community,city of beverly hills,24
 03-30,city/community,city of beverly hills,28
 03-31,city/community,city of beverly hills,35
 04-01,city/community,city of beverly hills,39
+04-02,city/community,city of beverly hills,45
 03-28,city/community,city of bradbury,0
 03-29,city/community,city of bradbury,0
 03-30,city/community,city of bradbury,0
 03-31,city/community,city of bradbury,0
 04-01,city/community,city of bradbury,0
+04-02,city/community,city of bradbury,0
 03-28,city/community,city of burbank,17
 03-29,city/community,city of burbank,19
 03-30,city/community,city of burbank,21
 03-31,city/community,city of burbank,27
 04-01,city/community,city of burbank,39
+04-02,city/community,city of burbank,41
 03-28,city/community,city of calabasas,10
 03-29,city/community,city of calabasas,10
 03-30,city/community,city of calabasas,11
 03-31,city/community,city of calabasas,13
 04-01,city/community,city of calabasas,13
+04-02,city/community,city of calabasas,13
 03-28,city/community,city of carson,26
 03-29,city/community,city of carson,28
 03-30,city/community,city of carson,35
 03-31,city/community,city of carson,39
 04-01,city/community,city of carson,44
+04-02,city/community,city of carson,55
 03-28,city/community,city of cerritos,1
 03-29,city/community,city of cerritos,4
 03-30,city/community,city of cerritos,5
 03-31,city/community,city of cerritos,6
 04-01,city/community,city of cerritos,8
+04-02,city/community,city of cerritos,10
 03-28,city/community,city of claremont,1
 03-29,city/community,city of claremont,1
 03-30,city/community,city of claremont,1
 03-31,city/community,city of claremont,2
 04-01,city/community,city of claremont,3
+04-02,city/community,city of claremont,3
 03-28,city/community,city of commerce,0
 03-29,city/community,city of commerce,0
 03-30,city/community,city of commerce,0
 03-31,city/community,city of commerce,0
 04-01,city/community,city of commerce,0
+04-02,city/community,city of commerce,0
 03-28,city/community,city of compton,9
 03-29,city/community,city of compton,11
 03-30,city/community,city of compton,13
 03-31,city/community,city of compton,16
 04-01,city/community,city of compton,19
+04-02,city/community,city of compton,24
 03-28,city/community,city of covina,3
 03-29,city/community,city of covina,6
 03-30,city/community,city of covina,8
 03-31,city/community,city of covina,7
 04-01,city/community,city of covina,9
+04-02,city/community,city of covina,11
 03-28,city/community,city of cudahy,0
 03-29,city/community,city of cudahy,0
 03-30,city/community,city of cudahy,0
 03-31,city/community,city of cudahy,0
 04-01,city/community,city of cudahy,0
+04-02,city/community,city of cudahy,9
 03-28,city/community,city of culver city,7
 03-29,city/community,city of culver city,9
 03-30,city/community,city of culver city,14
 03-31,city/community,city of culver city,15
 04-01,city/community,city of culver city,17
+04-02,city/community,city of culver city,19
 03-28,city/community,city of diamond bar,2
 03-29,city/community,city of diamond bar,3
 03-30,city/community,city of diamond bar,3
 03-31,city/community,city of diamond bar,3
 04-01,city/community,city of diamond bar,6
+04-02,city/community,city of diamond bar,7
 03-28,city/community,city of downey,18
 03-29,city/community,city of downey,19
 03-30,city/community,city of downey,25
 03-31,city/community,city of downey,31
 04-01,city/community,city of downey,37
+04-02,city/community,city of downey,43
 03-28,city/community,city of duarte,0
 03-29,city/community,city of duarte,0
 03-30,city/community,city of duarte,0
 03-31,city/community,city of duarte,0
 04-01,city/community,city of duarte,0
+04-02,city/community,city of duarte,0
 03-28,city/community,city of el monte,0
 03-29,city/community,city of el monte,0
 03-30,city/community,city of el monte,1
 03-31,city/community,city of el monte,4
 04-01,city/community,city of el monte,6
+04-02,city/community,city of el monte,7
 03-28,city/community,city of el segundo,0
 03-29,city/community,city of el segundo,0
 03-30,city/community,city of el segundo,0
 03-31,city/community,city of el segundo,0
 04-01,city/community,city of el segundo,0
+04-02,city/community,city of el segundo,0
 03-28,city/community,city of gardena,6
 03-29,city/community,city of gardena,6
 03-30,city/community,city of gardena,7
 03-31,city/community,city of gardena,12
 04-01,city/community,city of gardena,14
+04-02,city/community,city of gardena,17
 03-28,city/community,city of glendale,36
 03-29,city/community,city of glendale,46
 03-30,city/community,city of glendale,62
 03-31,city/community,city of glendale,76
 04-01,city/community,city of glendale,86
+04-02,city/community,city of glendale,93
 03-28,city/community,city of glendora,4
 03-29,city/community,city of glendora,6
 03-30,city/community,city of glendora,6
 03-31,city/community,city of glendora,7
 04-01,city/community,city of glendora,7
+04-02,city/community,city of glendora,7
 03-28,city/community,city of hawaiian gardens,0
 03-29,city/community,city of hawaiian gardens,0
 03-30,city/community,city of hawaiian gardens,0
 03-31,city/community,city of hawaiian gardens,0
 04-01,city/community,city of hawaiian gardens,0
+04-02,city/community,city of hawaiian gardens,0
 03-28,city/community,city of hawthorne,11
 03-29,city/community,city of hawthorne,11
 03-30,city/community,city of hawthorne,13
 03-31,city/community,city of hawthorne,19
 04-01,city/community,city of hawthorne,22
+04-02,city/community,city of hawthorne,26
 03-28,city/community,city of hermosa beach,0
 03-29,city/community,city of hermosa beach,6
 03-30,city/community,city of hermosa beach,7
 03-31,city/community,city of hermosa beach,9
 04-01,city/community,city of hermosa beach,12
+04-02,city/community,city of hermosa beach,15
 03-28,city/community,city of hidden hills,0
 03-29,city/community,city of hidden hills,0
 03-30,city/community,city of hidden hills,0
 03-31,city/community,city of hidden hills,0
 04-01,city/community,city of hidden hills,0
+04-02,city/community,city of hidden hills,0
 03-28,city/community,city of huntington park,2
 03-29,city/community,city of huntington park,2
 03-30,city/community,city of huntington park,4
 03-31,city/community,city of huntington park,11
 04-01,city/community,city of huntington park,13
+04-02,city/community,city of huntington park,15
 03-28,city/community,city of industry,0
 03-29,city/community,city of industry,0
 03-30,city/community,city of industry,0
 03-31,city/community,city of industry,0
 04-01,city/community,city of industry,0
+04-02,city/community,city of industry,0
 03-28,city/community,city of inglewood,14
 03-29,city/community,city of inglewood,20
 03-30,city/community,city of inglewood,26
 03-31,city/community,city of inglewood,31
 04-01,city/community,city of inglewood,37
+04-02,city/community,city of inglewood,44
 03-28,city/community,city of irwindale,0
 03-29,city/community,city of irwindale,0
 03-30,city/community,city of irwindale,0
 03-31,city/community,city of irwindale,0
 04-01,city/community,city of irwindale,0
+04-02,city/community,city of irwindale,0
 03-28,city/community,city of la canada flintridge,7
 03-29,city/community,city of la canada flintridge,7
 03-30,city/community,city of la canada flintridge,8
 03-31,city/community,city of la canada flintridge,8
 04-01,city/community,city of la canada flintridge,8
+04-02,city/community,city of la canada flintridge,8
 03-28,city/community,city of la habra heights,0
 03-29,city/community,city of la habra heights,0
 03-30,city/community,city of la habra heights,0
 03-31,city/community,city of la habra heights,0
 04-01,city/community,city of la habra heights,0
+04-02,city/community,city of la habra heights,0
 03-28,city/community,city of la mirada,6
 03-29,city/community,city of la mirada,7
 03-30,city/community,city of la mirada,7
 03-31,city/community,city of la mirada,8
 04-01,city/community,city of la mirada,9
+04-02,city/community,city of la mirada,11
 03-28,city/community,city of la puente,2
 03-29,city/community,city of la puente,3
 03-30,city/community,city of la puente,3
 03-31,city/community,city of la puente,3
 04-01,city/community,city of la puente,6
+04-02,city/community,city of la puente,7
 03-28,city/community,city of la verne,1
 03-29,city/community,city of la verne,1
 03-30,city/community,city of la verne,2
 03-31,city/community,city of la verne,2
 04-01,city/community,city of la verne,2
+04-02,city/community,city of la verne,2
 03-28,city/community,city of lakewood,11
 03-29,city/community,city of lakewood,12
 03-30,city/community,city of lakewood,13
 03-31,city/community,city of lakewood,16
 04-01,city/community,city of lakewood,18
+04-02,city/community,city of lakewood,21
 03-28,city/community,city of lancaster,19
 03-29,city/community,city of lancaster,23
 03-30,city/community,city of lancaster,27
 03-31,city/community,city of lancaster,31
 04-01,city/community,city of lancaster,32
+04-02,city/community,city of lancaster,33
 03-28,city/community,city of lawndale,3
 03-29,city/community,city of lawndale,4
 03-30,city/community,city of lawndale,4
 03-31,city/community,city of lawndale,6
 04-01,city/community,city of lawndale,7
+04-02,city/community,city of lawndale,8
 03-28,city/community,city of lomita,0
 03-29,city/community,city of lomita,0
 03-30,city/community,city of lomita,0
 03-31,city/community,city of lomita,0
 04-01,city/community,city of lomita,0
+04-02,city/community,city of lomita,0
 03-28,city/community,city of long beach,0
 03-29,city/community,city of long beach,0
 03-30,city/community,city of long beach,0
@@ -268,56 +320,67 @@ date,section,row_name,count
 03-30,city/community,city of lynwood,16
 03-31,city/community,city of lynwood,18
 04-01,city/community,city of lynwood,20
+04-02,city/community,city of lynwood,21
 03-28,city/community,city of malibu,0
 03-29,city/community,city of malibu,0
 03-30,city/community,city of malibu,0
 03-31,city/community,city of malibu,0
 04-01,city/community,city of malibu,0
+04-02,city/community,city of malibu,5
 03-28,city/community,city of manhattan beach,23
 03-29,city/community,city of manhattan beach,27
 03-30,city/community,city of manhattan beach,31
 03-31,city/community,city of manhattan beach,40
 04-01,city/community,city of manhattan beach,41
+04-02,city/community,city of manhattan beach,43
 03-28,city/community,city of maywood,2
 03-29,city/community,city of maywood,4
 03-30,city/community,city of maywood,5
 03-31,city/community,city of maywood,6
 04-01,city/community,city of maywood,8
+04-02,city/community,city of maywood,10
 03-28,city/community,city of monrovia,4
 03-29,city/community,city of monrovia,4
 03-30,city/community,city of monrovia,4
 03-31,city/community,city of monrovia,5
 04-01,city/community,city of monrovia,7
+04-02,city/community,city of monrovia,7
 03-28,city/community,city of montebello,3
 03-29,city/community,city of montebello,4
 03-30,city/community,city of montebello,4
 03-31,city/community,city of montebello,5
 04-01,city/community,city of montebello,7
+04-02,city/community,city of montebello,9
 03-28,city/community,city of monterey park,5
 03-29,city/community,city of monterey park,5
 03-30,city/community,city of monterey park,5
 03-31,city/community,city of monterey park,7
 04-01,city/community,city of monterey park,9
+04-02,city/community,city of monterey park,11
 03-28,city/community,city of norwalk,12
 03-29,city/community,city of norwalk,12
 03-30,city/community,city of norwalk,15
 03-31,city/community,city of norwalk,21
 04-01,city/community,city of norwalk,21
+04-02,city/community,city of norwalk,26
 03-28,city/community,city of palmdale,6
 03-29,city/community,city of palmdale,7
 03-30,city/community,city of palmdale,9
 03-31,city/community,city of palmdale,14
 04-01,city/community,city of palmdale,18
+04-02,city/community,city of palmdale,20
 03-28,city/community,city of palos verdes estates,14
 03-29,city/community,city of palos verdes estates,14
 03-30,city/community,city of palos verdes estates,14
 03-31,city/community,city of palos verdes estates,14
 04-01,city/community,city of palos verdes estates,15
+04-02,city/community,city of palos verdes estates,18
 03-28,city/community,city of paramount,5
 03-29,city/community,city of paramount,6
 03-30,city/community,city of paramount,7
 03-31,city/community,city of paramount,8
 04-01,city/community,city of paramount,10
+04-02,city/community,city of paramount,13
 03-28,city/community,city of pasadena,0
 03-29,city/community,city of pasadena,0
 03-30,city/community,city of pasadena,0
@@ -327,1435 +390,1730 @@ date,section,row_name,count
 03-30,city/community,city of pico rivera,6
 03-31,city/community,city of pico rivera,9
 04-01,city/community,city of pico rivera,14
+04-02,city/community,city of pico rivera,15
 03-28,city/community,city of pomona,4
 03-29,city/community,city of pomona,4
 03-30,city/community,city of pomona,5
 03-31,city/community,city of pomona,10
 04-01,city/community,city of pomona,13
+04-02,city/community,city of pomona,15
 03-28,city/community,city of rancho palos verdes,8
 03-29,city/community,city of rancho palos verdes,8
 03-30,city/community,city of rancho palos verdes,10
 03-31,city/community,city of rancho palos verdes,13
 04-01,city/community,city of rancho palos verdes,16
+04-02,city/community,city of rancho palos verdes,20
 03-28,city/community,city of redondo beach,24
 03-29,city/community,city of redondo beach,29
 03-30,city/community,city of redondo beach,34
 03-31,city/community,city of redondo beach,39
 04-01,city/community,city of redondo beach,50
+04-02,city/community,city of redondo beach,54
 03-28,city/community,city of rolling hills,0
 03-29,city/community,city of rolling hills,0
 03-30,city/community,city of rolling hills,0
 03-31,city/community,city of rolling hills,0
 04-01,city/community,city of rolling hills,0
+04-02,city/community,city of rolling hills,0
 03-28,city/community,city of rolling hills estates,0
 03-29,city/community,city of rolling hills estates,0
 03-30,city/community,city of rolling hills estates,0
 03-31,city/community,city of rolling hills estates,0
 04-01,city/community,city of rolling hills estates,0
+04-02,city/community,city of rolling hills estates,5
 03-28,city/community,city of rosemead,1
 03-29,city/community,city of rosemead,2
 03-30,city/community,city of rosemead,2
 03-31,city/community,city of rosemead,2
 04-01,city/community,city of rosemead,3
+04-02,city/community,city of rosemead,3
 03-28,city/community,city of san dimas,2
 03-29,city/community,city of san dimas,3
 03-30,city/community,city of san dimas,3
 03-31,city/community,city of san dimas,4
 04-01,city/community,city of san dimas,5
+04-02,city/community,city of san dimas,6
 03-28,city/community,city of san fernando,0
 03-29,city/community,city of san fernando,0
 03-30,city/community,city of san fernando,0
 03-31,city/community,city of san fernando,0
 04-01,city/community,city of san fernando,5
+04-02,city/community,city of san fernando,5
 03-28,city/community,city of san gabriel,6
 03-29,city/community,city of san gabriel,6
 03-30,city/community,city of san gabriel,6
 03-31,city/community,city of san gabriel,6
 04-01,city/community,city of san gabriel,6
+04-02,city/community,city of san gabriel,7
 03-28,city/community,city of san marino,0
 03-29,city/community,city of san marino,0
 03-30,city/community,city of san marino,0
 03-31,city/community,city of san marino,0
 04-01,city/community,city of san marino,0
+04-02,city/community,city of san marino,0
 03-28,city/community,city of santa clarita,32
 03-29,city/community,city of santa clarita,38
 03-30,city/community,city of santa clarita,41
 03-31,city/community,city of santa clarita,48
 04-01,city/community,city of santa clarita,50
+04-02,city/community,city of santa clarita,65
 03-28,city/community,city of santa fe springs,0
 03-29,city/community,city of santa fe springs,0
 03-30,city/community,city of santa fe springs,0
 03-31,city/community,city of santa fe springs,0
 04-01,city/community,city of santa fe springs,0
+04-02,city/community,city of santa fe springs,0
 03-28,city/community,city of santa monica,38
 03-29,city/community,city of santa monica,41
 03-30,city/community,city of santa monica,47
 03-31,city/community,city of santa monica,49
 04-01,city/community,city of santa monica,53
+04-02,city/community,city of santa monica,56
 03-28,city/community,city of sierra madre,0
 03-29,city/community,city of sierra madre,0
 03-30,city/community,city of sierra madre,0
 03-31,city/community,city of sierra madre,0
 04-01,city/community,city of sierra madre,0
+04-02,city/community,city of sierra madre,0
 03-28,city/community,city of signal hill,0
 03-29,city/community,city of signal hill,0
 03-30,city/community,city of signal hill,0
 03-31,city/community,city of signal hill,0
 04-01,city/community,city of signal hill,0
+04-02,city/community,city of signal hill,0
 03-28,city/community,city of south el monte,0
 03-29,city/community,city of south el monte,0
 03-30,city/community,city of south el monte,0
 03-31,city/community,city of south el monte,0
 04-01,city/community,city of south el monte,0
+04-02,city/community,city of south el monte,0
 03-28,city/community,city of south gate,11
 03-29,city/community,city of south gate,12
 03-30,city/community,city of south gate,14
 03-31,city/community,city of south gate,19
 04-01,city/community,city of south gate,25
+04-02,city/community,city of south gate,30
 03-28,city/community,city of south pasadena,3
 03-29,city/community,city of south pasadena,5
 03-30,city/community,city of south pasadena,5
 03-31,city/community,city of south pasadena,6
 04-01,city/community,city of south pasadena,7
+04-02,city/community,city of south pasadena,7
 03-28,city/community,city of temple city,1
 03-29,city/community,city of temple city,2
 03-30,city/community,city of temple city,1
 03-31,city/community,city of temple city,1
 04-01,city/community,city of temple city,1
+04-02,city/community,city of temple city,1
 03-28,city/community,city of torrance,32
 03-29,city/community,city of torrance,34
 03-30,city/community,city of torrance,43
 03-31,city/community,city of torrance,53
 04-01,city/community,city of torrance,63
+04-02,city/community,city of torrance,69
 03-28,city/community,city of vernon,0
 03-29,city/community,city of vernon,0
 03-30,city/community,city of vernon,0
 03-31,city/community,city of vernon,0
 04-01,city/community,city of vernon,0
+04-02,city/community,city of vernon,0
 03-28,city/community,city of walnut,2
 03-29,city/community,city of walnut,3
 03-30,city/community,city of walnut,3
 03-31,city/community,city of walnut,3
 04-01,city/community,city of walnut,4
+04-02,city/community,city of walnut,4
 03-28,city/community,city of west covina,5
 03-29,city/community,city of west covina,6
 03-30,city/community,city of west covina,7
 03-31,city/community,city of west covina,7
 04-01,city/community,city of west covina,7
+04-02,city/community,city of west covina,7
 03-28,city/community,city of west hollywood,50
 03-29,city/community,city of west hollywood,52
 03-30,city/community,city of west hollywood,53
 03-31,city/community,city of west hollywood,56
 04-01,city/community,city of west hollywood,64
+04-02,city/community,city of west hollywood,68
 03-28,city/community,city of westlake village,0
 03-29,city/community,city of westlake village,0
 03-30,city/community,city of westlake village,0
 03-31,city/community,city of westlake village,0
 04-01,city/community,city of westlake village,0
+04-02,city/community,city of westlake village,0
 03-28,city/community,city of whittier,6
 03-29,city/community,city of whittier,8
 03-30,city/community,city of whittier,8
 03-31,city/community,city of whittier,12
 04-01,city/community,city of whittier,15
+04-02,city/community,city of whittier,16
 03-31,city/community,los angeles,1386
 04-01,city/community,los angeles,1580
+04-02,city/community,los angeles,1787
 03-28,city/community,los angeles - adams-normandie,0
 03-29,city/community,los angeles - adams-normandie,0
 03-30,city/community,los angeles - adams-normandie,0
 03-31,city/community,los angeles - adams-normandie,5
 04-01,city/community,los angeles - adams-normandie,8
+04-02,city/community,los angeles - adams-normandie,8
 03-28,city/community,los angeles - alsace,0
 03-29,city/community,los angeles - alsace,0
 03-30,city/community,los angeles - alsace,0
 03-31,city/community,los angeles - alsace,0
 04-01,city/community,los angeles - alsace,0
+04-02,city/community,los angeles - alsace,0
 03-28,city/community,los angeles - angeles national forest,0
 03-29,city/community,los angeles - angeles national forest,0
 03-30,city/community,los angeles - angeles national forest,0
 03-31,city/community,los angeles - angeles national forest,0
 04-01,city/community,los angeles - angeles national forest,0
+04-02,city/community,los angeles - angeles national forest,0
 03-28,city/community,los angeles - angelino heights,0
 03-29,city/community,los angeles - angelino heights,0
 03-30,city/community,los angeles - angelino heights,0
 03-31,city/community,los angeles - angelino heights,0
 04-01,city/community,los angeles - angelino heights,0
+04-02,city/community,los angeles - angelino heights,0
 03-29,city/community,los angeles - arleta,5
 03-30,city/community,los angeles - arleta,5
 03-31,city/community,los angeles - arleta,7
 04-01,city/community,los angeles - arleta,7
+04-02,city/community,los angeles - arleta,7
 03-28,city/community,los angeles - atwater village,0
 03-29,city/community,los angeles - atwater village,0
 03-30,city/community,los angeles - atwater village,0
 03-31,city/community,los angeles - atwater village,0
 04-01,city/community,los angeles - atwater village,0
+04-02,city/community,los angeles - atwater village,0
 03-28,city/community,los angeles - baldwin hills,7
 03-29,city/community,los angeles - baldwin hills,9
 03-30,city/community,los angeles - baldwin hills,9
 03-31,city/community,los angeles - baldwin hills,11
 04-01,city/community,los angeles - baldwin hills,13
+04-02,city/community,los angeles - baldwin hills,13
 03-28,city/community,los angeles - bel air,8
 03-29,city/community,los angeles - bel air,9
 03-30,city/community,los angeles - bel air,9
 03-31,city/community,los angeles - bel air,11
 04-01,city/community,los angeles - bel air,12
+04-02,city/community,los angeles - bel air,12
 03-28,city/community,los angeles - beverly crest,17
 03-29,city/community,los angeles - beverly crest,18
 03-30,city/community,los angeles - beverly crest,19
 03-31,city/community,los angeles - beverly crest,20
 04-01,city/community,los angeles - beverly crest,22
+04-02,city/community,los angeles - beverly crest,23
 03-28,city/community,los angeles - beverlywood,10
 03-29,city/community,los angeles - beverlywood,11
 03-30,city/community,los angeles - beverlywood,11
 03-31,city/community,los angeles - beverlywood,13
 04-01,city/community,los angeles - beverlywood,15
+04-02,city/community,los angeles - beverlywood,15
 03-28,city/community,los angeles - boyle heights,8
 03-29,city/community,los angeles - boyle heights,10
 03-30,city/community,los angeles - boyle heights,11
 03-31,city/community,los angeles - boyle heights,11
 04-01,city/community,los angeles - boyle heights,15
+04-02,city/community,los angeles - boyle heights,20
 03-28,city/community,los angeles - brentwood,31
 03-29,city/community,los angeles - brentwood,33
 03-30,city/community,los angeles - brentwood,34
 03-31,city/community,los angeles - brentwood,36
 04-01,city/community,los angeles - brentwood,39
+04-02,city/community,los angeles - brentwood,42
 03-28,city/community,los angeles - brookside,0
 03-29,city/community,los angeles - brookside,0
 03-30,city/community,los angeles - brookside,0
 03-31,city/community,los angeles - brookside,0
 04-01,city/community,los angeles - brookside,0
+04-02,city/community,los angeles - brookside,0
 03-28,city/community,los angeles - cadillac-corning,0
 03-29,city/community,los angeles - cadillac-corning,0
 03-30,city/community,los angeles - cadillac-corning,0
 03-31,city/community,los angeles - cadillac-corning,0
 04-01,city/community,los angeles - cadillac-corning,0
+04-02,city/community,los angeles - cadillac-corning,0
 03-28,city/community,los angeles - canoga park,3
 03-29,city/community,los angeles - canoga park,3
 03-30,city/community,los angeles - canoga park,4
 03-31,city/community,los angeles - canoga park,7
 04-01,city/community,los angeles - canoga park,10
+04-02,city/community,los angeles - canoga park,16
 03-28,city/community,los angeles - carthay,9
 03-29,city/community,los angeles - carthay,13
 03-30,city/community,los angeles - carthay,15
 03-31,city/community,los angeles - carthay,16
 04-01,city/community,los angeles - carthay,17
+04-02,city/community,los angeles - carthay,17
 03-28,city/community,los angeles - central,3
 03-29,city/community,los angeles - central,4
 03-30,city/community,los angeles - central,6
 03-31,city/community,los angeles - central,11
 04-01,city/community,los angeles - central,13
+04-02,city/community,los angeles - central,16
 03-28,city/community,los angeles - century city,8
 03-29,city/community,los angeles - century city,8
 03-30,city/community,los angeles - century city,9
 03-31,city/community,los angeles - century city,13
 04-01,city/community,los angeles - century city,17
+04-02,city/community,los angeles - century city,17
 03-28,city/community,los angeles - century palms/cove,5
 03-29,city/community,los angeles - century palms/cove,8
 03-30,city/community,los angeles - century palms/cove,8
 03-31,city/community,los angeles - century palms/cove,10
 04-01,city/community,los angeles - century palms/cove,11
+04-02,city/community,los angeles - century palms/cove,11
 03-28,city/community,los angeles - chatsworth,4
 03-29,city/community,los angeles - chatsworth,8
 03-30,city/community,los angeles - chatsworth,10
 03-31,city/community,los angeles - chatsworth,14
 04-01,city/community,los angeles - chatsworth,18
+04-02,city/community,los angeles - chatsworth,20
 03-28,city/community,los angeles - cheviot hills,0
 03-29,city/community,los angeles - cheviot hills,0
 03-30,city/community,los angeles - cheviot hills,5
 03-31,city/community,los angeles - cheviot hills,6
 04-01,city/community,los angeles - cheviot hills,8
+04-02,city/community,los angeles - cheviot hills,9
 03-28,city/community,los angeles - chinatown,0
 03-29,city/community,los angeles - chinatown,0
 03-30,city/community,los angeles - chinatown,0
 03-31,city/community,los angeles - chinatown,0
 04-01,city/community,los angeles - chinatown,0
+04-02,city/community,los angeles - chinatown,0
 03-28,city/community,los angeles - cloverdale/cochran,0
 03-29,city/community,los angeles - cloverdale/cochran,0
 03-30,city/community,los angeles - cloverdale/cochran,0
 03-31,city/community,los angeles - cloverdale/cochran,0
 04-01,city/community,los angeles - cloverdale/cochran,5
+04-02,city/community,los angeles - cloverdale/cochran,5
 03-28,city/community,los angeles - country club park,0
 03-29,city/community,los angeles - country club park,0
 03-30,city/community,los angeles - country club park,0
 03-31,city/community,los angeles - country club park,5
 04-01,city/community,los angeles - country club park,8
+04-02,city/community,los angeles - country club park,9
 03-28,city/community,los angeles - crenshaw district,0
 03-29,city/community,los angeles - crenshaw district,0
 03-30,city/community,los angeles - crenshaw district,0
 03-31,city/community,los angeles - crenshaw district,0
 04-01,city/community,los angeles - crenshaw district,5
+04-02,city/community,los angeles - crenshaw district,7
 03-28,city/community,los angeles - crestview,9
 03-29,city/community,los angeles - crestview,11
 03-30,city/community,los angeles - crestview,13
 03-31,city/community,los angeles - crestview,13
 04-01,city/community,los angeles - crestview,15
+04-02,city/community,los angeles - crestview,17
 03-28,city/community,los angeles - del rey,10
 03-29,city/community,los angeles - del rey,12
 03-30,city/community,los angeles - del rey,14
 03-31,city/community,los angeles - del rey,16
 04-01,city/community,los angeles - del rey,17
+04-02,city/community,los angeles - del rey,20
 03-28,city/community,los angeles - downtown,9
 03-29,city/community,los angeles - downtown,10
 03-30,city/community,los angeles - downtown,11
 03-31,city/community,los angeles - downtown,14
 04-01,city/community,los angeles - downtown,15
+04-02,city/community,los angeles - downtown,15
 03-28,city/community,los angeles - eagle rock,8
 03-29,city/community,los angeles - eagle rock,8
 03-30,city/community,los angeles - eagle rock,8
 03-31,city/community,los angeles - eagle rock,10
 04-01,city/community,los angeles - eagle rock,11
+04-02,city/community,los angeles - eagle rock,13
 03-28,city/community,los angeles - east hollywood,5
 03-29,city/community,los angeles - east hollywood,6
 03-30,city/community,los angeles - east hollywood,10
 03-31,city/community,los angeles - east hollywood,13
 04-01,city/community,los angeles - east hollywood,12
+04-02,city/community,los angeles - east hollywood,12
 03-28,city/community,los angeles - echo park,0
 03-29,city/community,los angeles - echo park,0
 03-30,city/community,los angeles - echo park,5
 03-31,city/community,los angeles - echo park,5
 04-01,city/community,los angeles - echo park,6
+04-02,city/community,los angeles - echo park,6
 03-28,city/community,los angeles - el sereno,1
 03-29,city/community,los angeles - el sereno,3
 03-30,city/community,los angeles - el sereno,3
 03-31,city/community,los angeles - el sereno,3
 04-01,city/community,los angeles - el sereno,4
+04-02,city/community,los angeles - el sereno,9
 03-28,city/community,los angeles - elysian park,0
 03-29,city/community,los angeles - elysian park,0
 03-30,city/community,los angeles - elysian park,0
 03-31,city/community,los angeles - elysian park,0
 04-01,city/community,los angeles - elysian park,0
+04-02,city/community,los angeles - elysian park,0
 03-28,city/community,los angeles - elysian valley,0
 03-29,city/community,los angeles - elysian valley,0
 03-30,city/community,los angeles - elysian valley,0
 03-31,city/community,los angeles - elysian valley,0
 04-01,city/community,los angeles - elysian valley,0
+04-02,city/community,los angeles - elysian valley,0
 03-28,city/community,los angeles - encino,26
 03-29,city/community,los angeles - encino,27
 03-30,city/community,los angeles - encino,29
 03-31,city/community,los angeles - encino,30
 04-01,city/community,los angeles - encino,32
+04-02,city/community,los angeles - encino,33
 03-28,city/community,los angeles - exposition,0
 03-29,city/community,los angeles - exposition,0
 03-30,city/community,los angeles - exposition,0
 03-31,city/community,los angeles - exposition,0
 04-01,city/community,los angeles - exposition,0
+04-02,city/community,los angeles - exposition,0
 03-28,city/community,los angeles - exposition park,4
 03-29,city/community,los angeles - exposition park,4
 03-30,city/community,los angeles - exposition park,4
 03-31,city/community,los angeles - exposition park,7
 04-01,city/community,los angeles - exposition park,8
+04-02,city/community,los angeles - exposition park,13
 03-28,city/community,los angeles - faircrest heights,0
 03-29,city/community,los angeles - faircrest heights,0
 03-30,city/community,los angeles - faircrest heights,0
 03-31,city/community,los angeles - faircrest heights,0
 04-01,city/community,los angeles - faircrest heights,0
+04-02,city/community,los angeles - faircrest heights,0
 03-28,city/community,los angeles - figueroa park square,0
 03-29,city/community,los angeles - figueroa park square,0
 03-30,city/community,los angeles - figueroa park square,0
 03-31,city/community,los angeles - figueroa park square,0
 04-01,city/community,los angeles - figueroa park square,0
+04-02,city/community,los angeles - figueroa park square,0
 03-28,city/community,los angeles - florence-firestone,6
 03-29,city/community,los angeles - florence-firestone,6
 03-30,city/community,los angeles - florence-firestone,7
 03-31,city/community,los angeles - florence-firestone,12
 04-01,city/community,los angeles - florence-firestone,14
+04-02,city/community,los angeles - florence-firestone,18
 03-28,city/community,los angeles - glassell park,7
 03-29,city/community,los angeles - glassell park,7
 03-30,city/community,los angeles - glassell park,8
 03-31,city/community,los angeles - glassell park,11
 04-01,city/community,los angeles - glassell park,16
+04-02,city/community,los angeles - glassell park,18
 03-28,city/community,los angeles - gramercy place,0
 03-29,city/community,los angeles - gramercy place,0
 03-30,city/community,los angeles - gramercy place,0
 03-31,city/community,los angeles - gramercy place,0
 04-01,city/community,los angeles - gramercy place,0
+04-02,city/community,los angeles - gramercy place,5
 03-28,city/community,los angeles - granada hills,8
 03-29,city/community,los angeles - granada hills,8
 03-30,city/community,los angeles - granada hills,9
 03-31,city/community,los angeles - granada hills,10
 04-01,city/community,los angeles - granada hills,14
+04-02,city/community,los angeles - granada hills,19
 03-28,city/community,los angeles - green meadows,0
 03-29,city/community,los angeles - green meadows,0
 03-30,city/community,los angeles - green meadows,0
 03-31,city/community,los angeles - green meadows,7
 04-01,city/community,los angeles - green meadows,8
+04-02,city/community,los angeles - green meadows,8
 03-28,city/community,los angeles - hancock park,17
 03-29,city/community,los angeles - hancock park,18
 03-30,city/community,los angeles - hancock park,26
 03-31,city/community,los angeles - hancock park,30
 04-01,city/community,los angeles - hancock park,33
+04-02,city/community,los angeles - hancock park,34
 03-28,city/community,los angeles - harbor city,1
 03-29,city/community,los angeles - harbor city,2
 03-30,city/community,los angeles - harbor city,4
 03-31,city/community,los angeles - harbor city,5
 04-01,city/community,los angeles - harbor city,7
+04-02,city/community,los angeles - harbor city,8
 03-28,city/community,los angeles - harbor gateway,4
 03-29,city/community,los angeles - harbor gateway,4
 03-30,city/community,los angeles - harbor gateway,6
 03-31,city/community,los angeles - harbor gateway,9
 04-01,city/community,los angeles - harbor gateway,9
+04-02,city/community,los angeles - harbor gateway,11
 03-28,city/community,los angeles - harbor pines,0
 03-29,city/community,los angeles - harbor pines,0
 03-30,city/community,los angeles - harbor pines,0
 03-31,city/community,los angeles - harbor pines,0
 04-01,city/community,los angeles - harbor pines,0
+04-02,city/community,los angeles - harbor pines,0
 03-28,city/community,los angeles - harvard heights,0
 03-29,city/community,los angeles - harvard heights,0
 03-30,city/community,los angeles - harvard heights,0
 03-31,city/community,los angeles - harvard heights,0
 04-01,city/community,los angeles - harvard heights,5
+04-02,city/community,los angeles - harvard heights,6
 03-28,city/community,los angeles - harvard park,2
 03-29,city/community,los angeles - harvard park,2
 03-30,city/community,los angeles - harvard park,3
 03-31,city/community,los angeles - harvard park,4
 04-01,city/community,los angeles - harvard park,4
+04-02,city/community,los angeles - harvard park,5
 03-28,city/community,los angeles - highland park,6
 03-29,city/community,los angeles - highland park,8
 03-30,city/community,los angeles - highland park,9
 03-31,city/community,los angeles - highland park,9
 04-01,city/community,los angeles - highland park,9
+04-02,city/community,los angeles - highland park,10
 03-28,city/community,los angeles - historic filipinotown,0
 03-29,city/community,los angeles - historic filipinotown,0
 03-30,city/community,los angeles - historic filipinotown,0
 03-31,city/community,los angeles - historic filipinotown,0
 04-01,city/community,los angeles - historic filipinotown,5
+04-02,city/community,los angeles - historic filipinotown,6
 03-28,city/community,los angeles - hollywood,38
 03-29,city/community,los angeles - hollywood,44
 03-30,city/community,los angeles - hollywood,49
 03-31,city/community,los angeles - hollywood,61
 04-01,city/community,los angeles - hollywood,67
+04-02,city/community,los angeles - hollywood,71
 03-28,city/community,los angeles - hollywood hills,23
 03-29,city/community,los angeles - hollywood hills,24
 03-30,city/community,los angeles - hollywood hills,26
 03-31,city/community,los angeles - hollywood hills,29
 04-01,city/community,los angeles - hollywood hills,32
+04-02,city/community,los angeles - hollywood hills,34
 03-28,city/community,los angeles - hyde park,2
 03-29,city/community,los angeles - hyde park,4
 03-30,city/community,los angeles - hyde park,6
 03-31,city/community,los angeles - hyde park,7
 04-01,city/community,los angeles - hyde park,8
+04-02,city/community,los angeles - hyde park,10
 03-28,city/community,los angeles - jefferson park,0
 03-29,city/community,los angeles - jefferson park,0
 03-30,city/community,los angeles - jefferson park,0
 03-31,city/community,los angeles - jefferson park,0
 04-01,city/community,los angeles - jefferson park,0
+04-02,city/community,los angeles - jefferson park,0
 03-28,city/community,los angeles - koreatown,10
 03-29,city/community,los angeles - koreatown,10
 03-30,city/community,los angeles - koreatown,13
 03-31,city/community,los angeles - koreatown,14
 04-01,city/community,los angeles - koreatown,18
+04-02,city/community,los angeles - koreatown,21
 03-28,city/community,los angeles - lafayette square,0
 03-29,city/community,los angeles - lafayette square,0
 03-30,city/community,los angeles - lafayette square,0
 03-31,city/community,los angeles - lafayette square,0
 04-01,city/community,los angeles - lafayette square,0
+04-02,city/community,los angeles - lafayette square,0
 03-28,city/community,los angeles - lake balboa,6
 03-29,city/community,los angeles - lake balboa,8
 03-30,city/community,los angeles - lake balboa,11
 03-31,city/community,los angeles - lake balboa,11
 04-01,city/community,los angeles - lake balboa,14
+04-02,city/community,los angeles - lake balboa,16
 03-28,city/community,los angeles - lakeview terrace,0
 03-29,city/community,los angeles - lakeview terrace,0
 03-30,city/community,los angeles - lakeview terrace,0
 03-31,city/community,los angeles - lakeview terrace,5
 04-01,city/community,los angeles - lakeview terrace,6
+04-02,city/community,los angeles - lakeview terrace,8
 03-28,city/community,los angeles - leimert park,0
 03-29,city/community,los angeles - leimert park,0
 03-30,city/community,los angeles - leimert park,0
 03-31,city/community,los angeles - leimert park,0
 04-01,city/community,los angeles - leimert park,7
+04-02,city/community,los angeles - leimert park,10
 03-28,city/community,los angeles - lincoln heights,1
 03-29,city/community,los angeles - lincoln heights,2
 03-30,city/community,los angeles - lincoln heights,2
 03-31,city/community,los angeles - lincoln heights,4
 04-01,city/community,los angeles - lincoln heights,5
+04-02,city/community,los angeles - lincoln heights,6
 03-28,city/community,los angeles - little armenia,0
 03-29,city/community,los angeles - little armenia,0
 03-30,city/community,los angeles - little armenia,0
 03-31,city/community,los angeles - little armenia,0
 04-01,city/community,los angeles - little armenia,0
+04-02,city/community,los angeles - little armenia,0
 03-28,city/community,los angeles - little bangladesh,2
 03-29,city/community,los angeles - little bangladesh,4
 03-30,city/community,los angeles - little bangladesh,5
 03-31,city/community,los angeles - little bangladesh,5
 04-01,city/community,los angeles - little bangladesh,8
+04-02,city/community,los angeles - little bangladesh,9
 03-28,city/community,los angeles - little tokyo,0
 03-29,city/community,los angeles - little tokyo,0
 03-30,city/community,los angeles - little tokyo,0
 03-31,city/community,los angeles - little tokyo,0
 04-01,city/community,los angeles - little tokyo,0
+04-02,city/community,los angeles - little tokyo,0
 03-28,city/community,los angeles - longwood,0
 03-29,city/community,los angeles - longwood,0
 03-30,city/community,los angeles - longwood,0
 03-31,city/community,los angeles - longwood,0
 04-01,city/community,los angeles - longwood,0
+04-02,city/community,los angeles - longwood,0
 03-28,city/community,los angeles - los feliz,5
 03-29,city/community,los angeles - los feliz,8
 03-30,city/community,los angeles - los feliz,11
 03-31,city/community,los angeles - los feliz,13
 04-01,city/community,los angeles - los feliz,14
+04-02,city/community,los angeles - los feliz,16
 03-28,city/community,los angeles - manchester square,0
 03-29,city/community,los angeles - manchester square,0
 03-30,city/community,los angeles - manchester square,0
 03-31,city/community,los angeles - manchester square,0
 04-01,city/community,los angeles - manchester square,0
+04-02,city/community,los angeles - manchester square,0
 03-28,city/community,los angeles - mandeville canyon,0
 03-29,city/community,los angeles - mandeville canyon,0
 03-30,city/community,los angeles - mandeville canyon,0
 03-31,city/community,los angeles - mandeville canyon,0
 04-01,city/community,los angeles - mandeville canyon,0
+04-02,city/community,los angeles - mandeville canyon,0
 03-28,city/community,los angeles - mar vista,8
 03-29,city/community,los angeles - mar vista,9
 03-30,city/community,los angeles - mar vista,13
 03-31,city/community,los angeles - mar vista,13
 04-01,city/community,los angeles - mar vista,18
+04-02,city/community,los angeles - mar vista,21
 03-28,city/community,los angeles - marina peninsula,0
 03-29,city/community,los angeles - marina peninsula,0
 03-30,city/community,los angeles - marina peninsula,0
 03-31,city/community,los angeles - marina peninsula,0
 04-01,city/community,los angeles - marina peninsula,6
+04-02,city/community,los angeles - marina peninsula,6
 03-28,city/community,los angeles - melrose,56
 03-29,city/community,los angeles - melrose,71
 03-30,city/community,los angeles - melrose,82
 03-31,city/community,los angeles - melrose,100
 04-01,city/community,los angeles - melrose,104
+04-02,city/community,los angeles - melrose,113
 03-28,city/community,los angeles - mid-city,8
 03-29,city/community,los angeles - mid-city,9
 03-30,city/community,los angeles - mid-city,10
 03-31,city/community,los angeles - mid-city,11
 04-01,city/community,los angeles - mid-city,13
+04-02,city/community,los angeles - mid-city,14
 03-28,city/community,los angeles - miracle mile,8
 03-29,city/community,los angeles - miracle mile,9
 03-30,city/community,los angeles - miracle mile,10
 03-31,city/community,los angeles - miracle mile,12
 04-01,city/community,los angeles - miracle mile,12
+04-02,city/community,los angeles - miracle mile,12
 03-28,city/community,los angeles - mission hills,5
 03-29,city/community,los angeles - mission hills,5
 03-30,city/community,los angeles - mission hills,6
 03-31,city/community,los angeles - mission hills,6
 04-01,city/community,los angeles - mission hills,6
+04-02,city/community,los angeles - mission hills,6
 03-28,city/community,los angeles - mt. washington,0
 03-29,city/community,los angeles - mt. washington,0
 03-30,city/community,los angeles - mt. washington,0
 03-31,city/community,los angeles - mt. washington,0
 04-01,city/community,los angeles - mt. washington,0
+04-02,city/community,los angeles - mt. washington,0
 03-28,city/community,los angeles - north hills,2
 03-29,city/community,los angeles - north hills,6
 03-30,city/community,los angeles - north hills,7
 03-31,city/community,los angeles - north hills,9
 04-01,city/community,los angeles - north hills,11
+04-02,city/community,los angeles - north hills,13
 03-28,city/community,los angeles - north hollywood,26
 03-29,city/community,los angeles - north hollywood,30
 03-30,city/community,los angeles - north hollywood,34
 03-31,city/community,los angeles - north hollywood,39
 04-01,city/community,los angeles - north hollywood,45
+04-02,city/community,los angeles - north hollywood,57
 03-28,city/community,los angeles - northridge,8
 03-29,city/community,los angeles - northridge,8
 03-30,city/community,los angeles - northridge,8
 03-31,city/community,los angeles - northridge,9
 04-01,city/community,los angeles - northridge,12
+04-02,city/community,los angeles - northridge,14
 03-28,city/community,los angeles - pacific palisades,11
 03-29,city/community,los angeles - pacific palisades,15
 03-30,city/community,los angeles - pacific palisades,18
 03-31,city/community,los angeles - pacific palisades,22
 04-01,city/community,los angeles - pacific palisades,23
+04-02,city/community,los angeles - pacific palisades,24
 03-28,city/community,los angeles - pacoima,3
 03-29,city/community,los angeles - pacoima,3
 03-30,city/community,los angeles - pacoima,4
 03-31,city/community,los angeles - pacoima,5
 04-01,city/community,los angeles - pacoima,7
+04-02,city/community,los angeles - pacoima,8
 03-28,city/community,los angeles - palisades highlands,0
 03-29,city/community,los angeles - palisades highlands,0
 03-30,city/community,los angeles - palisades highlands,0
 03-31,city/community,los angeles - palisades highlands,0
 04-01,city/community,los angeles - palisades highlands,0
+04-02,city/community,los angeles - palisades highlands,0
 03-28,city/community,los angeles - palms,15
 03-29,city/community,los angeles - palms,20
 03-30,city/community,los angeles - palms,21
 03-31,city/community,los angeles - palms,25
 04-01,city/community,los angeles - palms,27
+04-02,city/community,los angeles - palms,28
 03-28,city/community,los angeles - panorama city,4
 03-29,city/community,los angeles - panorama city,6
 03-30,city/community,los angeles - panorama city,7
 03-31,city/community,los angeles - panorama city,7
 04-01,city/community,los angeles - panorama city,11
+04-02,city/community,los angeles - panorama city,16
 03-28,city/community,los angeles - park la brea,0
 03-29,city/community,los angeles - park la brea,0
 03-30,city/community,los angeles - park la brea,0
 03-31,city/community,los angeles - park la brea,0
 04-01,city/community,los angeles - park la brea,5
+04-02,city/community,los angeles - park la brea,6
 03-28,city/community,los angeles - pico-union,4
 03-29,city/community,los angeles - pico-union,4
 03-30,city/community,los angeles - pico-union,5
 03-31,city/community,los angeles - pico-union,7
 04-01,city/community,los angeles - pico-union,9
+04-02,city/community,los angeles - pico-union,9
 03-28,city/community,los angeles - playa del rey,0
 03-29,city/community,los angeles - playa del rey,0
 03-30,city/community,los angeles - playa del rey,0
 03-31,city/community,los angeles - playa del rey,0
 04-01,city/community,los angeles - playa del rey,0
+04-02,city/community,los angeles - playa del rey,0
 03-28,city/community,los angeles - playa vista,5
 03-29,city/community,los angeles - playa vista,5
 03-30,city/community,los angeles - playa vista,5
 03-31,city/community,los angeles - playa vista,7
 04-01,city/community,los angeles - playa vista,7
+04-02,city/community,los angeles - playa vista,7
 03-28,city/community,los angeles - porter ranch,3
 03-29,city/community,los angeles - porter ranch,6
 03-30,city/community,los angeles - porter ranch,6
 03-31,city/community,los angeles - porter ranch,8
 04-01,city/community,los angeles - porter ranch,8
+04-02,city/community,los angeles - porter ranch,12
 03-28,city/community,los angeles - rancho park,0
 03-29,city/community,los angeles - rancho park,0
 03-30,city/community,los angeles - rancho park,0
 03-31,city/community,los angeles - rancho park,0
 04-01,city/community,los angeles - rancho park,0
+04-02,city/community,los angeles - rancho park,0
 03-28,city/community,los angeles - regent square,0
 03-29,city/community,los angeles - regent square,0
 03-30,city/community,los angeles - regent square,0
 03-31,city/community,los angeles - regent square,0
 04-01,city/community,los angeles - regent square,0
+04-02,city/community,los angeles - regent square,0
 03-28,city/community,los angeles - reseda,11
 03-29,city/community,los angeles - reseda,13
 03-30,city/community,los angeles - reseda,20
 03-31,city/community,los angeles - reseda,20
 04-01,city/community,los angeles - reseda,20
+04-02,city/community,los angeles - reseda,21
 03-28,city/community,los angeles - reseda ranch,0
 03-29,city/community,los angeles - reseda ranch,0
 03-30,city/community,los angeles - reseda ranch,0
 03-31,city/community,los angeles - reseda ranch,0
 04-01,city/community,los angeles - reseda ranch,0
+04-02,city/community,los angeles - reseda ranch,0
 03-28,city/community,los angeles - reynier village,0
 03-29,city/community,los angeles - reynier village,0
 03-30,city/community,los angeles - reynier village,0
 03-31,city/community,los angeles - reynier village,0
 04-01,city/community,los angeles - reynier village,0
+04-02,city/community,los angeles - reynier village,0
 03-28,city/community,los angeles - san pedro,9
 03-29,city/community,los angeles - san pedro,10
 03-30,city/community,los angeles - san pedro,11
 03-31,city/community,los angeles - san pedro,14
 04-01,city/community,los angeles - san pedro,14
+04-02,city/community,los angeles - san pedro,19
 03-28,city/community,los angeles - shadow hills,0
 03-29,city/community,los angeles - shadow hills,0
 03-30,city/community,los angeles - shadow hills,0
 03-31,city/community,los angeles - shadow hills,0
 04-01,city/community,los angeles - shadow hills,0
+04-02,city/community,los angeles - shadow hills,5
 03-28,city/community,los angeles - sherman oaks,25
 03-29,city/community,los angeles - sherman oaks,27
 03-30,city/community,los angeles - sherman oaks,32
 03-31,city/community,los angeles - sherman oaks,33
 04-01,city/community,los angeles - sherman oaks,37
+04-02,city/community,los angeles - sherman oaks,43
 03-28,city/community,los angeles - silverlake,14
 03-29,city/community,los angeles - silverlake,16
 03-30,city/community,los angeles - silverlake,18
 03-31,city/community,los angeles - silverlake,20
 04-01,city/community,los angeles - silverlake,25
+04-02,city/community,los angeles - silverlake,25
 03-28,city/community,los angeles - south carthay,5
 03-29,city/community,los angeles - south carthay,6
 03-30,city/community,los angeles - south carthay,8
 03-31,city/community,los angeles - south carthay,8
 04-01,city/community,los angeles - south carthay,9
+04-02,city/community,los angeles - south carthay,14
 03-28,city/community,los angeles - south park,4
 03-29,city/community,los angeles - south park,4
 03-30,city/community,los angeles - south park,4
 03-31,city/community,los angeles - south park,5
 04-01,city/community,los angeles - south park,11
+04-02,city/community,los angeles - south park,12
 03-28,city/community,los angeles - st elmo village,0
 03-29,city/community,los angeles - st elmo village,0
 03-30,city/community,los angeles - st elmo village,0
 03-31,city/community,los angeles - st elmo village,0
 04-01,city/community,los angeles - st elmo village,0
+04-02,city/community,los angeles - st elmo village,0
 03-28,city/community,los angeles - studio city,10
 03-29,city/community,los angeles - studio city,14
 03-30,city/community,los angeles - studio city,15
 03-31,city/community,los angeles - studio city,18
 04-01,city/community,los angeles - studio city,19
+04-02,city/community,los angeles - studio city,19
 03-28,city/community,los angeles - sun valley,5
 03-29,city/community,los angeles - sun valley,6
 03-30,city/community,los angeles - sun valley,6
 03-31,city/community,los angeles - sun valley,8
 04-01,city/community,los angeles - sun valley,9
+04-02,city/community,los angeles - sun valley,10
 03-28,city/community,los angeles - sunland,0
 03-29,city/community,los angeles - sunland,0
 03-30,city/community,los angeles - sunland,0
 03-31,city/community,los angeles - sunland,5
 04-01,city/community,los angeles - sunland,8
+04-02,city/community,los angeles - sunland,9
 03-28,city/community,los angeles - sycamore square,0
 03-29,city/community,los angeles - sycamore square,0
 03-30,city/community,los angeles - sycamore square,0
 03-31,city/community,los angeles - sycamore square,0
 04-01,city/community,los angeles - sycamore square,0
+04-02,city/community,los angeles - sycamore square,0
 03-28,city/community,los angeles - sylmar,8
 03-29,city/community,los angeles - sylmar,15
 03-30,city/community,los angeles - sylmar,18
 03-31,city/community,los angeles - sylmar,25
 04-01,city/community,los angeles - sylmar,30
+04-02,city/community,los angeles - sylmar,35
 03-29,city/community,los angeles - tarzana,23
 03-30,city/community,los angeles - tarzana,24
 03-31,city/community,los angeles - tarzana,26
 04-01,city/community,los angeles - tarzana,29
+04-02,city/community,los angeles - tarzana,29
 03-28,city/community,los angeles - temple-beaudry,5
 03-29,city/community,los angeles - temple-beaudry,5
 03-30,city/community,los angeles - temple-beaudry,8
 03-31,city/community,los angeles - temple-beaudry,10
 04-01,city/community,los angeles - temple-beaudry,11
+04-02,city/community,los angeles - temple-beaudry,12
 03-28,city/community,los angeles - thai town,0
 03-29,city/community,los angeles - thai town,0
 03-30,city/community,los angeles - thai town,0
 03-31,city/community,los angeles - thai town,0
 04-01,city/community,los angeles - thai town,0
+04-02,city/community,los angeles - thai town,0
 03-28,city/community,los angeles - toluca lake,0
 03-29,city/community,los angeles - toluca lake,0
 03-30,city/community,los angeles - toluca lake,0
 03-31,city/community,los angeles - toluca lake,0
 04-01,city/community,los angeles - toluca lake,0
+04-02,city/community,los angeles - toluca lake,0
 03-28,city/community,los angeles - toluca terrace,0
 03-29,city/community,los angeles - toluca terrace,0
 03-30,city/community,los angeles - toluca terrace,0
 03-31,city/community,los angeles - toluca terrace,0
 04-01,city/community,los angeles - toluca terrace,0
+04-02,city/community,los angeles - toluca terrace,0
 03-28,city/community,los angeles - toluca woods,0
 03-29,city/community,los angeles - toluca woods,0
 03-30,city/community,los angeles - toluca woods,0
 03-31,city/community,los angeles - toluca woods,0
 04-01,city/community,los angeles - toluca woods,0
+04-02,city/community,los angeles - toluca woods,0
 03-28,city/community,los angeles - tujunga,2
 03-29,city/community,los angeles - tujunga,3
 03-30,city/community,los angeles - tujunga,4
 03-31,city/community,los angeles - tujunga,5
 04-01,city/community,los angeles - tujunga,5
+04-02,city/community,los angeles - tujunga,5
 03-28,city/community,los angeles - university hills,0
 03-29,city/community,los angeles - university hills,0
 03-30,city/community,los angeles - university hills,0
 03-31,city/community,los angeles - university hills,0
 04-01,city/community,los angeles - university hills,0
+04-02,city/community,los angeles - university hills,0
 03-28,city/community,los angeles - university park,5
 03-29,city/community,los angeles - university park,5
 03-30,city/community,los angeles - university park,6
 03-31,city/community,los angeles - university park,12
 04-01,city/community,los angeles - university park,14
+04-02,city/community,los angeles - university park,15
 03-28,city/community,los angeles - valley glen,3
 03-29,city/community,los angeles - valley glen,4
 03-30,city/community,los angeles - valley glen,4
 03-31,city/community,los angeles - valley glen,7
 04-01,city/community,los angeles - valley glen,8
+04-02,city/community,los angeles - valley glen,11
 03-28,city/community,los angeles - valley village,14
 03-29,city/community,los angeles - valley village,18
 03-30,city/community,los angeles - valley village,19
 03-31,city/community,los angeles - valley village,21
 04-01,city/community,los angeles - valley village,23
+04-02,city/community,los angeles - valley village,23
 03-28,city/community,los angeles - van nuys,6
 03-29,city/community,los angeles - van nuys,7
 03-30,city/community,los angeles - van nuys,10
 03-31,city/community,los angeles - van nuys,13
 04-01,city/community,los angeles - van nuys,17
+04-02,city/community,los angeles - van nuys,22
 03-28,city/community,los angeles - venice,13
 03-29,city/community,los angeles - venice,17
 03-30,city/community,los angeles - venice,18
 03-31,city/community,los angeles - venice,18
 04-01,city/community,los angeles - venice,18
+04-02,city/community,los angeles - venice,20
 03-28,city/community,los angeles - vermont knolls,0
 03-29,city/community,los angeles - vermont knolls,0
 03-30,city/community,los angeles - vermont knolls,0
 03-31,city/community,los angeles - vermont knolls,0
 04-01,city/community,los angeles - vermont knolls,5
+04-02,city/community,los angeles - vermont knolls,7
 03-28,city/community,los angeles - vermont square,0
 03-29,city/community,los angeles - vermont square,0
 03-30,city/community,los angeles - vermont square,0
 03-31,city/community,los angeles - vermont square,0
 04-01,city/community,los angeles - vermont square,0
+04-02,city/community,los angeles - vermont square,5
 03-28,city/community,los angeles - vermont vista,3
 03-29,city/community,los angeles - vermont vista,5
 03-30,city/community,los angeles - vermont vista,5
 03-31,city/community,los angeles - vermont vista,6
 04-01,city/community,los angeles - vermont vista,7
+04-02,city/community,los angeles - vermont vista,7
 03-28,city/community,los angeles - vernon central,3
 03-29,city/community,los angeles - vernon central,3
 03-30,city/community,los angeles - vernon central,4
 03-31,city/community,los angeles - vernon central,5
 04-01,city/community,los angeles - vernon central,5
+04-02,city/community,los angeles - vernon central,7
 03-28,city/community,los angeles - victoria park,0
 03-29,city/community,los angeles - victoria park,0
 03-30,city/community,los angeles - victoria park,0
 03-31,city/community,los angeles - victoria park,0
 04-01,city/community,los angeles - victoria park,0
+04-02,city/community,los angeles - victoria park,6
 03-28,city/community,los angeles - view heights,0
 03-29,city/community,los angeles - view heights,0
 03-30,city/community,los angeles - view heights,0
 03-31,city/community,los angeles - view heights,0
 04-01,city/community,los angeles - view heights,0
+04-02,city/community,los angeles - view heights,0
 03-28,city/community,los angeles - watts,1
 03-29,city/community,los angeles - watts,2
 03-30,city/community,los angeles - watts,2
 03-31,city/community,los angeles - watts,7
 04-01,city/community,los angeles - watts,7
+04-02,city/community,los angeles - watts,11
 03-28,city/community,los angeles - wellington square,0
 03-29,city/community,los angeles - wellington square,0
 03-30,city/community,los angeles - wellington square,0
 03-31,city/community,los angeles - wellington square,0
 04-01,city/community,los angeles - wellington square,0
+04-02,city/community,los angeles - wellington square,0
 03-28,city/community,los angeles - west adams,7
 03-29,city/community,los angeles - west adams,7
 03-30,city/community,los angeles - west adams,9
 03-31,city/community,los angeles - west adams,12
 04-01,city/community,los angeles - west adams,14
+04-02,city/community,los angeles - west adams,15
 03-28,city/community,los angeles - west hills,5
 03-29,city/community,los angeles - west hills,6
 03-30,city/community,los angeles - west hills,7
 03-31,city/community,los angeles - west hills,10
 04-01,city/community,los angeles - west hills,10
+04-02,city/community,los angeles - west hills,11
 03-28,city/community,los angeles - west los angeles,13
 03-29,city/community,los angeles - west los angeles,18
 03-30,city/community,los angeles - west los angeles,19
 03-31,city/community,los angeles - west los angeles,20
 04-01,city/community,los angeles - west los angeles,22
+04-02,city/community,los angeles - west los angeles,24
 03-28,city/community,los angeles - west vernon,8
 03-29,city/community,los angeles - west vernon,8
 03-30,city/community,los angeles - west vernon,9
 03-31,city/community,los angeles - west vernon,13
 04-01,city/community,los angeles - west vernon,15
+04-02,city/community,los angeles - west vernon,17
 03-28,city/community,los angeles - westchester,12
 03-29,city/community,los angeles - westchester,17
 03-30,city/community,los angeles - westchester,17
 03-31,city/community,los angeles - westchester,17
 04-01,city/community,los angeles - westchester,18
+04-02,city/community,los angeles - westchester,18
 03-28,city/community,los angeles - westlake,2
 03-29,city/community,los angeles - westlake,5
 03-30,city/community,los angeles - westlake,7
 03-31,city/community,los angeles - westlake,10
 04-01,city/community,los angeles - westlake,13
+04-02,city/community,los angeles - westlake,20
 03-28,city/community,los angeles - westwood,17
 03-29,city/community,los angeles - westwood,22
 03-30,city/community,los angeles - westwood,26
 03-31,city/community,los angeles - westwood,28
 04-01,city/community,los angeles - westwood,26
+04-02,city/community,los angeles - westwood,25
 03-28,city/community,los angeles - wholesale district,11
 03-29,city/community,los angeles - wholesale district,12
 03-30,city/community,los angeles - wholesale district,10
 03-31,city/community,los angeles - wholesale district,10
 04-01,city/community,los angeles - wholesale district,10
+04-02,city/community,los angeles - wholesale district,12
 03-28,city/community,los angeles - wilmington,7
 03-29,city/community,los angeles - wilmington,10
 03-30,city/community,los angeles - wilmington,10
 03-31,city/community,los angeles - wilmington,12
 04-01,city/community,los angeles - wilmington,13
+04-02,city/community,los angeles - wilmington,13
 03-28,city/community,los angeles - wilshire center,4
 03-29,city/community,los angeles - wilshire center,5
 03-30,city/community,los angeles - wilshire center,8
 03-31,city/community,los angeles - wilshire center,8
 04-01,city/community,los angeles - wilshire center,12
+04-02,city/community,los angeles - wilshire center,15
 03-28,city/community,los angeles - winnetka,8
 03-29,city/community,los angeles - winnetka,9
 03-30,city/community,los angeles - winnetka,9
 03-31,city/community,los angeles - winnetka,10
 04-01,city/community,los angeles - winnetka,11
+04-02,city/community,los angeles - winnetka,15
 03-28,city/community,los angeles - woodland hills,18
 03-29,city/community,los angeles - woodland hills,19
 03-30,city/community,los angeles - woodland hills,22
 03-31,city/community,los angeles - woodland hills,25
 04-01,city/community,los angeles - woodland hills,29
+04-02,city/community,los angeles - woodland hills,33
 03-28,city/community,unincorporated - acton,0
 03-29,city/community,unincorporated - acton,0
 03-30,city/community,unincorporated - acton,0
 03-31,city/community,unincorporated - acton,0
 04-01,city/community,unincorporated - acton,0
+04-02,city/community,unincorporated - acton,0
 03-28,city/community,unincorporated - agua dulce,0
 03-29,city/community,unincorporated - agua dulce,0
 03-30,city/community,unincorporated - agua dulce,0
 03-31,city/community,unincorporated - agua dulce,0
 04-01,city/community,unincorporated - agua dulce,0
+04-02,city/community,unincorporated - agua dulce,0
 03-28,city/community,unincorporated - altadena,10
 03-29,city/community,unincorporated - altadena,10
 03-30,city/community,unincorporated - altadena,10
 03-31,city/community,unincorporated - altadena,12
 04-01,city/community,unincorporated - altadena,14
+04-02,city/community,unincorporated - altadena,16
 03-28,city/community,unincorporated - anaverde,0
 03-29,city/community,unincorporated - anaverde,0
 03-30,city/community,unincorporated - anaverde,0
 03-31,city/community,unincorporated - anaverde,0
 04-01,city/community,unincorporated - anaverde,0
+04-02,city/community,unincorporated - anaverde,0
 03-28,city/community,unincorporated - angeles national forest,0
 03-29,city/community,unincorporated - angeles national forest,0
 03-30,city/community,unincorporated - angeles national forest,0
 03-31,city/community,unincorporated - angeles national forest,0
 04-01,city/community,unincorporated - angeles national forest,0
+04-02,city/community,unincorporated - angeles national forest,0
 03-28,city/community,unincorporated - arcadia,0
 03-29,city/community,unincorporated - arcadia,0
 03-30,city/community,unincorporated - arcadia,0
 03-31,city/community,unincorporated - arcadia,0
 04-01,city/community,unincorporated - arcadia,0
+04-02,city/community,unincorporated - arcadia,0
 03-28,city/community,unincorporated - athens village,0
 03-29,city/community,unincorporated - athens village,0
 03-30,city/community,unincorporated - athens village,0
 03-31,city/community,unincorporated - athens village,0
 04-01,city/community,unincorporated - athens village,0
+04-02,city/community,unincorporated - athens village,0
 03-28,city/community,unincorporated - athens-westmont,7
 03-29,city/community,unincorporated - athens-westmont,7
 03-30,city/community,unincorporated - athens-westmont,7
 03-31,city/community,unincorporated - athens-westmont,11
 04-01,city/community,unincorporated - athens-westmont,13
+04-02,city/community,unincorporated - athens-westmont,15
 03-28,city/community,unincorporated - avocado heights,0
 03-29,city/community,unincorporated - avocado heights,0
 03-30,city/community,unincorporated - avocado heights,0
 03-31,city/community,unincorporated - avocado heights,0
 04-01,city/community,unincorporated - avocado heights,0
+04-02,city/community,unincorporated - avocado heights,0
 03-28,city/community,unincorporated - azusa,0
 03-29,city/community,unincorporated - azusa,0
 03-30,city/community,unincorporated - azusa,0
 03-31,city/community,unincorporated - azusa,0
 04-01,city/community,unincorporated - azusa,0
+04-02,city/community,unincorporated - azusa,0
 03-28,city/community,unincorporated - bassett,0
 03-29,city/community,unincorporated - bassett,0
 03-30,city/community,unincorporated - bassett,0
 03-31,city/community,unincorporated - bassett,0
 04-01,city/community,unincorporated - bassett,0
+04-02,city/community,unincorporated - bassett,0
 03-28,city/community,unincorporated - bouquet canyon,0
 03-29,city/community,unincorporated - bouquet canyon,0
 03-30,city/community,unincorporated - bouquet canyon,0
 03-31,city/community,unincorporated - bouquet canyon,0
 04-01,city/community,unincorporated - bouquet canyon,0
+04-02,city/community,unincorporated - bouquet canyon,0
 03-28,city/community,unincorporated - bradbury,0
 03-29,city/community,unincorporated - bradbury,0
 03-30,city/community,unincorporated - bradbury,0
 03-31,city/community,unincorporated - bradbury,0
 04-01,city/community,unincorporated - bradbury,0
+04-02,city/community,unincorporated - bradbury,0
 03-28,city/community,unincorporated - canyon country,0
 03-29,city/community,unincorporated - canyon country,0
 03-30,city/community,unincorporated - canyon country,0
 03-31,city/community,unincorporated - canyon country,0
 04-01,city/community,unincorporated - canyon country,0
+04-02,city/community,unincorporated - canyon country,0
 03-28,city/community,unincorporated - castaic,4
 03-29,city/community,unincorporated - castaic,4
 03-30,city/community,unincorporated - castaic,3
 03-31,city/community,unincorporated - castaic,3
 04-01,city/community,unincorporated - castaic,3
+04-02,city/community,unincorporated - castaic,4
 03-28,city/community,unincorporated - cerritos,0
 03-29,city/community,unincorporated - cerritos,0
 03-30,city/community,unincorporated - cerritos,0
 03-31,city/community,unincorporated - cerritos,0
 04-01,city/community,unincorporated - cerritos,0
+04-02,city/community,unincorporated - cerritos,0
 03-31,city/community,unincorporated - charter oak,0
 04-01,city/community,unincorporated - charter oak,0
+04-02,city/community,unincorporated - charter oak,0
 03-28,city/community,unincorporated - claremont,0
 03-29,city/community,unincorporated - claremont,0
 03-30,city/community,unincorporated - claremont,0
 03-31,city/community,unincorporated - claremont,0
 04-01,city/community,unincorporated - claremont,0
+04-02,city/community,unincorporated - claremont,0
 03-28,city/community,unincorporated - covina,0
 03-29,city/community,unincorporated - covina,0
 03-30,city/community,unincorporated - covina,0
 03-31,city/community,unincorporated - covina,0
 04-01,city/community,unincorporated - covina,0
+04-02,city/community,unincorporated - covina,6
 03-28,city/community,unincorporated - covina (charter oak),0
 03-29,city/community,unincorporated - covina (charter oak),0
 03-30,city/community,unincorporated - covina (charter oak),0
 03-31,city/community,unincorporated - covina (charter oak),0
 04-01,city/community,unincorporated - covina (charter oak),0
+04-02,city/community,unincorporated - covina (charter oak),0
 03-28,city/community,unincorporated - del aire,0
 03-29,city/community,unincorporated - del aire,0
 03-30,city/community,unincorporated - del aire,0
 03-31,city/community,unincorporated - del aire,0
 04-01,city/community,unincorporated - del aire,0
+04-02,city/community,unincorporated - del aire,0
 03-28,city/community,unincorporated - del rey,0
 03-29,city/community,unincorporated - del rey,0
 03-30,city/community,unincorporated - del rey,0
 03-31,city/community,unincorporated - del rey,0
 04-01,city/community,unincorporated - del rey,0
+04-02,city/community,unincorporated - del rey,0
 03-28,city/community,unincorporated - del sur,0
 03-29,city/community,unincorporated - del sur,0
 03-30,city/community,unincorporated - del sur,0
 03-31,city/community,unincorporated - del sur,0
 04-01,city/community,unincorporated - del sur,0
+04-02,city/community,unincorporated - del sur,0
 03-28,city/community,unincorporated - desert view highlands,0
 03-29,city/community,unincorporated - desert view highlands,0
 03-30,city/community,unincorporated - desert view highlands,0
 03-31,city/community,unincorporated - desert view highlands,0
 04-01,city/community,unincorporated - desert view highlands,0
+04-02,city/community,unincorporated - desert view highlands,0
 03-28,city/community,unincorporated - duarte,0
 03-29,city/community,unincorporated - duarte,0
 03-30,city/community,unincorporated - duarte,0
 03-31,city/community,unincorporated - duarte,0
 04-01,city/community,unincorporated - duarte,0
+04-02,city/community,unincorporated - duarte,0
 03-28,city/community,unincorporated - east covina,0
 03-29,city/community,unincorporated - east covina,0
 03-30,city/community,unincorporated - east covina,0
 03-31,city/community,unincorporated - east covina,0
 04-01,city/community,unincorporated - east covina,0
+04-02,city/community,unincorporated - east covina,0
 03-28,city/community,unincorporated - east la mirada,0
 03-29,city/community,unincorporated - east la mirada,0
 03-30,city/community,unincorporated - east la mirada,0
 03-31,city/community,unincorporated - east la mirada,0
 04-01,city/community,unincorporated - east la mirada,0
+04-02,city/community,unincorporated - east la mirada,0
 03-28,city/community,unincorporated - east lancaster,0
 03-29,city/community,unincorporated - east lancaster,0
 03-30,city/community,unincorporated - east lancaster,0
 03-31,city/community,unincorporated - east lancaster,0
 04-01,city/community,unincorporated - east lancaster,0
+04-02,city/community,unincorporated - east lancaster,0
 03-28,city/community,unincorporated - east los angeles,8
 03-29,city/community,unincorporated - east los angeles,9
 03-30,city/community,unincorporated - east los angeles,11
 03-31,city/community,unincorporated - east los angeles,14
 04-01,city/community,unincorporated - east los angeles,16
+04-02,city/community,unincorporated - east los angeles,23
 03-28,city/community,unincorporated - east pasadena,0
 03-29,city/community,unincorporated - east pasadena,0
 03-30,city/community,unincorporated - east pasadena,0
 03-31,city/community,unincorporated - east pasadena,0
 04-01,city/community,unincorporated - east pasadena,0
+04-02,city/community,unincorporated - east pasadena,0
 03-28,city/community,unincorporated - east rancho dominguez,0
 03-29,city/community,unincorporated - east rancho dominguez,0
 03-30,city/community,unincorporated - east rancho dominguez,0
 03-31,city/community,unincorporated - east rancho dominguez,0
 04-01,city/community,unincorporated - east rancho dominguez,0
+04-02,city/community,unincorporated - east rancho dominguez,0
 03-28,city/community,unincorporated - east whittier,0
 03-29,city/community,unincorporated - east whittier,0
 03-30,city/community,unincorporated - east whittier,0
 03-31,city/community,unincorporated - east whittier,0
 04-01,city/community,unincorporated - east whittier,0
+04-02,city/community,unincorporated - east whittier,0
 03-28,city/community,unincorporated - el camino village,0
 03-29,city/community,unincorporated - el camino village,0
 03-30,city/community,unincorporated - el camino village,0
 03-31,city/community,unincorporated - el camino village,0
 04-01,city/community,unincorporated - el camino village,0
+04-02,city/community,unincorporated - el camino village,0
 03-28,city/community,unincorporated - el monte,0
 03-29,city/community,unincorporated - el monte,0
 03-30,city/community,unincorporated - el monte,0
 03-31,city/community,unincorporated - el monte,0
 04-01,city/community,unincorporated - el monte,0
+04-02,city/community,unincorporated - el monte,0
 03-28,city/community,unincorporated - elizabeth lake,0
 03-29,city/community,unincorporated - elizabeth lake,0
 03-30,city/community,unincorporated - elizabeth lake,0
 03-31,city/community,unincorporated - elizabeth lake,0
 04-01,city/community,unincorporated - elizabeth lake,0
+04-02,city/community,unincorporated - elizabeth lake,0
 03-28,city/community,unincorporated - florence-firestone,0
 03-29,city/community,unincorporated - florence-firestone,0
 03-30,city/community,unincorporated - florence-firestone,0
 03-31,city/community,unincorporated - florence-firestone,0
 04-01,city/community,unincorporated - florence-firestone,19
+04-02,city/community,unincorporated - florence-firestone,23
 03-28,city/community,unincorporated - glendora,0
 03-29,city/community,unincorporated - glendora,0
 03-30,city/community,unincorporated - glendora,0
 03-31,city/community,unincorporated - glendora,0
 04-01,city/community,unincorporated - glendora,0
+04-02,city/community,unincorporated - glendora,0
 03-28,city/community,unincorporated - hacienda heights,2
 03-29,city/community,unincorporated - hacienda heights,2
 03-30,city/community,unincorporated - hacienda heights,2
 03-31,city/community,unincorporated - hacienda heights,5
 04-01,city/community,unincorporated - hacienda heights,8
+04-02,city/community,unincorporated - hacienda heights,12
 03-31,city/community,unincorporated - harbor gateway,0
 04-01,city/community,unincorporated - harbor gateway,0
+04-02,city/community,unincorporated - harbor gateway,0
 03-28,city/community,unincorporated - hawthorne,0
 03-29,city/community,unincorporated - hawthorne,0
 03-30,city/community,unincorporated - hawthorne,0
 03-31,city/community,unincorporated - hawthorne,0
 04-01,city/community,unincorporated - hawthorne,0
+04-02,city/community,unincorporated - hawthorne,0
 03-28,city/community,unincorporated - hi vista,0
 03-29,city/community,unincorporated - hi vista,0
 03-30,city/community,unincorporated - hi vista,0
 03-31,city/community,unincorporated - hi vista,0
 04-01,city/community,unincorporated - hi vista,0
+04-02,city/community,unincorporated - hi vista,0
 03-28,city/community,unincorporated - kagel/lopez canyons,0
 03-29,city/community,unincorporated - kagel/lopez canyons,0
 03-30,city/community,unincorporated - kagel/lopez canyons,0
 03-31,city/community,unincorporated - kagel/lopez canyons,0
 04-01,city/community,unincorporated - kagel/lopez canyons,0
+04-02,city/community,unincorporated - kagel/lopez canyons,0
 03-28,city/community,unincorporated - la crescenta-montrose,0
 03-29,city/community,unincorporated - la crescenta-montrose,0
 03-30,city/community,unincorporated - la crescenta-montrose,0
 03-31,city/community,unincorporated - la crescenta-montrose,0
 04-01,city/community,unincorporated - la crescenta-montrose,0
+04-02,city/community,unincorporated - la crescenta-montrose,0
 03-28,city/community,unincorporated - la habra heights,0
 03-29,city/community,unincorporated - la habra heights,0
 03-30,city/community,unincorporated - la habra heights,0
 03-31,city/community,unincorporated - la habra heights,0
 04-01,city/community,unincorporated - la habra heights,0
+04-02,city/community,unincorporated - la habra heights,0
 03-28,city/community,unincorporated - la rambla,0
 03-29,city/community,unincorporated - la rambla,0
 03-30,city/community,unincorporated - la rambla,0
 03-31,city/community,unincorporated - la rambla,0
 04-01,city/community,unincorporated - la rambla,0
+04-02,city/community,unincorporated - la rambla,0
 03-28,city/community,unincorporated - la verne,0
 03-29,city/community,unincorporated - la verne,0
 03-30,city/community,unincorporated - la verne,0
 03-31,city/community,unincorporated - la verne,0
 04-01,city/community,unincorporated - la verne,0
+04-02,city/community,unincorporated - la verne,0
 03-28,city/community,unincorporated - ladera heights,0
 03-29,city/community,unincorporated - ladera heights,0
 03-30,city/community,unincorporated - ladera heights,0
 03-31,city/community,unincorporated - ladera heights,5
 04-01,city/community,unincorporated - ladera heights,5
+04-02,city/community,unincorporated - ladera heights,6
 03-28,city/community,unincorporated - lake hughes,0
 03-29,city/community,unincorporated - lake hughes,0
 03-30,city/community,unincorporated - lake hughes,0
 03-31,city/community,unincorporated - lake hughes,0
 04-01,city/community,unincorporated - lake hughes,0
+04-02,city/community,unincorporated - lake hughes,0
 03-28,city/community,unincorporated - lake los angeles,0
 03-29,city/community,unincorporated - lake los angeles,0
 03-30,city/community,unincorporated - lake los angeles,0
 03-31,city/community,unincorporated - lake los angeles,0
 04-01,city/community,unincorporated - lake los angeles,0
+04-02,city/community,unincorporated - lake los angeles,0
 03-28,city/community,unincorporated - lake manor,0
 03-29,city/community,unincorporated - lake manor,0
 03-30,city/community,unincorporated - lake manor,0
 03-31,city/community,unincorporated - lake manor,0
 04-01,city/community,unincorporated - lake manor,0
+04-02,city/community,unincorporated - lake manor,0
 03-28,city/community,unincorporated - lakewood,0
 03-29,city/community,unincorporated - lakewood,0
 03-30,city/community,unincorporated - lakewood,0
 03-31,city/community,unincorporated - lakewood,0
 04-01,city/community,unincorporated - lakewood,0
+04-02,city/community,unincorporated - lakewood,0
 03-28,city/community,unincorporated - lennox,0
 03-29,city/community,unincorporated - lennox,5
 03-30,city/community,unincorporated - lennox,7
 03-31,city/community,unincorporated - lennox,8
 04-01,city/community,unincorporated - lennox,8
+04-02,city/community,unincorporated - lennox,9
 03-28,city/community,unincorporated - leona valley,0
 03-29,city/community,unincorporated - leona valley,0
 03-30,city/community,unincorporated - leona valley,0
 03-31,city/community,unincorporated - leona valley,0
 04-01,city/community,unincorporated - leona valley,0
+04-02,city/community,unincorporated - leona valley,0
 03-28,city/community,unincorporated - littlerock,0
 03-29,city/community,unincorporated - littlerock,0
 03-30,city/community,unincorporated - littlerock,0
 03-31,city/community,unincorporated - littlerock,0
 04-01,city/community,unincorporated - littlerock,0
+04-02,city/community,unincorporated - littlerock,0
 03-28,city/community,unincorporated - littlerock/juniper hills,0
 03-29,city/community,unincorporated - littlerock/juniper hills,0
 03-30,city/community,unincorporated - littlerock/juniper hills,0
 03-31,city/community,unincorporated - littlerock/juniper hills,0
 04-01,city/community,unincorporated - littlerock/juniper hills,0
+04-02,city/community,unincorporated - littlerock/juniper hills,0
 03-28,city/community,unincorporated - littlerock/pearblossom,0
 03-29,city/community,unincorporated - littlerock/pearblossom,0
 03-30,city/community,unincorporated - littlerock/pearblossom,0
 03-31,city/community,unincorporated - littlerock/pearblossom,0
 04-01,city/community,unincorporated - littlerock/pearblossom,0
+04-02,city/community,unincorporated - littlerock/pearblossom,0
 03-28,city/community,unincorporated - llano,0
 03-29,city/community,unincorporated - llano,0
 03-30,city/community,unincorporated - llano,0
 03-31,city/community,unincorporated - llano,0
 04-01,city/community,unincorporated - llano,0
+04-02,city/community,unincorporated - llano,0
 03-28,city/community,unincorporated - long beach,0
 03-29,city/community,unincorporated - long beach,0
 03-30,city/community,unincorporated - long beach,0
 03-31,city/community,unincorporated - long beach,0
 04-01,city/community,unincorporated - long beach,0
+04-02,city/community,unincorporated - long beach,0
 03-31,city/community,unincorporated - lynwood,0
 04-01,city/community,unincorporated - lynwood,0
+04-02,city/community,unincorporated - lynwood,0
 03-28,city/community,unincorporated - marina del rey,0
 03-29,city/community,unincorporated - marina del rey,0
 03-30,city/community,unincorporated - marina del rey,0
 03-31,city/community,unincorporated - marina del rey,5
 04-01,city/community,unincorporated - marina del rey,5
+04-02,city/community,unincorporated - marina del rey,5
 03-31,city/community,unincorporated - miracle mile,0
 04-01,city/community,unincorporated - miracle mile,0
+04-02,city/community,unincorporated - miracle mile,0
 03-28,city/community,unincorporated - monrovia,0
 03-29,city/community,unincorporated - monrovia,0
 03-30,city/community,unincorporated - monrovia,0
 03-31,city/community,unincorporated - monrovia,0
 04-01,city/community,unincorporated - monrovia,0
+04-02,city/community,unincorporated - monrovia,0
 03-28,city/community,unincorporated - newhall,0
 03-29,city/community,unincorporated - newhall,0
 03-30,city/community,unincorporated - newhall,0
 03-31,city/community,unincorporated - newhall,0
 04-01,city/community,unincorporated - newhall,0
+04-02,city/community,unincorporated - newhall,0
 03-28,city/community,unincorporated - north lancaster,0
 03-29,city/community,unincorporated - north lancaster,0
 03-30,city/community,unincorporated - north lancaster,0
 03-31,city/community,unincorporated - north lancaster,0
 04-01,city/community,unincorporated - north lancaster,0
+04-02,city/community,unincorporated - north lancaster,0
 03-28,city/community,unincorporated - north whittier,0
 03-29,city/community,unincorporated - north whittier,0
 03-30,city/community,unincorporated - north whittier,0
 03-31,city/community,unincorporated - north whittier,0
 04-01,city/community,unincorporated - north whittier,0
+04-02,city/community,unincorporated - north whittier,0
 03-28,city/community,unincorporated - northeast san gabriel,0
 03-29,city/community,unincorporated - northeast san gabriel,0
 03-30,city/community,unincorporated - northeast san gabriel,0
 03-31,city/community,unincorporated - northeast san gabriel,0
 04-01,city/community,unincorporated - northeast san gabriel,0
+04-02,city/community,unincorporated - northeast san gabriel,0
 03-28,city/community,unincorporated - padua hills,0
 03-29,city/community,unincorporated - padua hills,0
 03-30,city/community,unincorporated - padua hills,0
 03-31,city/community,unincorporated - padua hills,0
 04-01,city/community,unincorporated - padua hills,0
+04-02,city/community,unincorporated - padua hills,0
 03-28,city/community,unincorporated - palmdale,0
 03-29,city/community,unincorporated - palmdale,0
 03-30,city/community,unincorporated - palmdale,0
 03-31,city/community,unincorporated - palmdale,0
 04-01,city/community,unincorporated - palmdale,0
+04-02,city/community,unincorporated - palmdale,0
 03-28,city/community,unincorporated - palos verdes peninsula,0
 03-29,city/community,unincorporated - palos verdes peninsula,0
 03-30,city/community,unincorporated - palos verdes peninsula,0
 03-31,city/community,unincorporated - palos verdes peninsula,0
 04-01,city/community,unincorporated - palos verdes peninsula,0
+04-02,city/community,unincorporated - palos verdes peninsula,0
 03-28,city/community,unincorporated - pearblossom/llano,0
 03-29,city/community,unincorporated - pearblossom/llano,0
 03-30,city/community,unincorporated - pearblossom/llano,0
 03-31,city/community,unincorporated - pearblossom/llano,0
 04-01,city/community,unincorporated - pearblossom/llano,0
+04-02,city/community,unincorporated - pearblossom/llano,0
 03-28,city/community,unincorporated - pellissier village,0
 03-29,city/community,unincorporated - pellissier village,0
 03-30,city/community,unincorporated - pellissier village,0
 03-31,city/community,unincorporated - pellissier village,0
 04-01,city/community,unincorporated - pellissier village,0
+04-02,city/community,unincorporated - pellissier village,0
 03-28,city/community,unincorporated - placerita canyon,0
 03-29,city/community,unincorporated - placerita canyon,0
 03-30,city/community,unincorporated - placerita canyon,0
 03-31,city/community,unincorporated - placerita canyon,0
 04-01,city/community,unincorporated - placerita canyon,0
+04-02,city/community,unincorporated - placerita canyon,0
 03-28,city/community,unincorporated - pomona,0
 03-29,city/community,unincorporated - pomona,0
 03-30,city/community,unincorporated - pomona,0
 03-31,city/community,unincorporated - pomona,0
 04-01,city/community,unincorporated - pomona,0
+04-02,city/community,unincorporated - pomona,0
 03-28,city/community,unincorporated - quartz hill,0
 03-29,city/community,unincorporated - quartz hill,0
 03-30,city/community,unincorporated - quartz hill,0
 03-31,city/community,unincorporated - quartz hill,0
 04-01,city/community,unincorporated - quartz hill,0
+04-02,city/community,unincorporated - quartz hill,0
 03-28,city/community,unincorporated - rancho dominguez,0
 03-29,city/community,unincorporated - rancho dominguez,0
 03-30,city/community,unincorporated - rancho dominguez,0
 03-31,city/community,unincorporated - rancho dominguez,0
 04-01,city/community,unincorporated - rancho dominguez,0
+04-02,city/community,unincorporated - rancho dominguez,0
 03-28,city/community,unincorporated - roosevelt,0
 03-29,city/community,unincorporated - roosevelt,0
 03-30,city/community,unincorporated - roosevelt,0
 03-31,city/community,unincorporated - roosevelt,0
 04-01,city/community,unincorporated - roosevelt,0
+04-02,city/community,unincorporated - roosevelt,0
 03-28,city/community,unincorporated - rosewood,0
 03-29,city/community,unincorporated - rosewood,0
 03-30,city/community,unincorporated - rosewood,0
 03-31,city/community,unincorporated - rosewood,0
 04-01,city/community,unincorporated - rosewood,0
+04-02,city/community,unincorporated - rosewood,0
 03-28,city/community,unincorporated - rosewood/east gardena,0
 03-29,city/community,unincorporated - rosewood/east gardena,0
 03-30,city/community,unincorporated - rosewood/east gardena,0
 03-31,city/community,unincorporated - rosewood/east gardena,0
 04-01,city/community,unincorporated - rosewood/east gardena,0
+04-02,city/community,unincorporated - rosewood/east gardena,0
 03-28,city/community,unincorporated - rosewood/west rancho dominguez,0
 03-29,city/community,unincorporated - rosewood/west rancho dominguez,0
 03-30,city/community,unincorporated - rosewood/west rancho dominguez,0
 03-31,city/community,unincorporated - rosewood/west rancho dominguez,0
 04-01,city/community,unincorporated - rosewood/west rancho dominguez,0
+04-02,city/community,unincorporated - rosewood/west rancho dominguez,0
 03-28,city/community,unincorporated - rowland heights,1
 03-29,city/community,unincorporated - rowland heights,3
 03-30,city/community,unincorporated - rowland heights,3
 03-31,city/community,unincorporated - rowland heights,3
 04-01,city/community,unincorporated - rowland heights,5
+04-02,city/community,unincorporated - rowland heights,6
 03-31,city/community,unincorporated - san clemente island,0
 04-01,city/community,unincorporated - san clemente island,0
+04-02,city/community,unincorporated - san clemente island,0
 03-31,city/community,unincorporated - san francisquito canyon/boquet canyon,0
 04-01,city/community,unincorporated - san francisquito canyon/boquet canyon,0
+04-02,city/community,unincorporated - san francisquito canyon/boquet canyon,0
 03-28,city/community,unincorporated - san jose hills,0
 03-29,city/community,unincorporated - san jose hills,0
 03-30,city/community,unincorporated - san jose hills,0
 03-31,city/community,unincorporated - san jose hills,0
 04-01,city/community,unincorporated - san jose hills,0
+04-02,city/community,unincorporated - san jose hills,0
 03-28,city/community,unincorporated - san pasqual,0
 03-29,city/community,unincorporated - san pasqual,0
 03-30,city/community,unincorporated - san pasqual,0
 03-31,city/community,unincorporated - san pasqual,0
 04-01,city/community,unincorporated - san pasqual,0
+04-02,city/community,unincorporated - san pasqual,0
 03-28,city/community,unincorporated - sand canyon,0
 03-29,city/community,unincorporated - sand canyon,0
 03-30,city/community,unincorporated - sand canyon,0
 03-31,city/community,unincorporated - sand canyon,0
 04-01,city/community,unincorporated - sand canyon,0
+04-02,city/community,unincorporated - sand canyon,0
 03-28,city/community,unincorporated - santa catalina island,0
 03-29,city/community,unincorporated - santa catalina island,0
 03-30,city/community,unincorporated - santa catalina island,0
 03-31,city/community,unincorporated - santa catalina island,0
 04-01,city/community,unincorporated - santa catalina island,0
+04-02,city/community,unincorporated - santa catalina island,0
 03-28,city/community,unincorporated - santa monica mountains,0
 03-29,city/community,unincorporated - santa monica mountains,0
 03-30,city/community,unincorporated - santa monica mountains,0
 03-31,city/community,unincorporated - santa monica mountains,0
 04-01,city/community,unincorporated - santa monica mountains,0
+04-02,city/community,unincorporated - santa monica mountains,0
 03-28,city/community,unincorporated - saugus,0
 03-29,city/community,unincorporated - saugus,0
 03-30,city/community,unincorporated - saugus,0
 03-31,city/community,unincorporated - saugus,0
 04-01,city/community,unincorporated - saugus,0
+04-02,city/community,unincorporated - saugus,0
 03-28,city/community,unincorporated - saugus/canyon country,0
 03-29,city/community,unincorporated - saugus/canyon country,0
 03-30,city/community,unincorporated - saugus/canyon country,0
 03-31,city/community,unincorporated - saugus/canyon country,0
 04-01,city/community,unincorporated - saugus/canyon country,0
+04-02,city/community,unincorporated - saugus/canyon country,0
 03-28,city/community,unincorporated - south antelope valley,0
 03-29,city/community,unincorporated - south antelope valley,0
 03-30,city/community,unincorporated - south antelope valley,0
 03-31,city/community,unincorporated - south antelope valley,0
 04-01,city/community,unincorporated - south antelope valley,0
+04-02,city/community,unincorporated - south antelope valley,0
 03-31,city/community,unincorporated - south edwards,0
 04-01,city/community,unincorporated - south edwards,0
+04-02,city/community,unincorporated - south edwards,0
 03-28,city/community,unincorporated - south el monte,0
 03-29,city/community,unincorporated - south el monte,0
 03-30,city/community,unincorporated - south el monte,0
 03-31,city/community,unincorporated - south el monte,0
 04-01,city/community,unincorporated - south el monte,0
+04-02,city/community,unincorporated - south el monte,0
 03-28,city/community,unincorporated - south san gabriel,0
 03-29,city/community,unincorporated - south san gabriel,0
 03-30,city/community,unincorporated - south san gabriel,0
 03-31,city/community,unincorporated - south san gabriel,0
 04-01,city/community,unincorporated - south san gabriel,5
+04-02,city/community,unincorporated - south san gabriel,5
 03-28,city/community,unincorporated - south whittier,5
 03-29,city/community,unincorporated - south whittier,5
 03-30,city/community,unincorporated - south whittier,5
 03-31,city/community,unincorporated - south whittier,7
 04-01,city/community,unincorporated - south whittier,8
+04-02,city/community,unincorporated - south whittier,9
 03-28,city/community,unincorporated - southeast antelope valley,0
 03-29,city/community,unincorporated - southeast antelope valley,0
 03-30,city/community,unincorporated - southeast antelope valley,0
 03-31,city/community,unincorporated - southeast antelope valley,0
 04-01,city/community,unincorporated - southeast antelope valley,0
+04-02,city/community,unincorporated - southeast antelope valley,0
 03-28,city/community,unincorporated - stevenson ranch,0
 03-29,city/community,unincorporated - stevenson ranch,0
 03-30,city/community,unincorporated - stevenson ranch,0
 03-31,city/community,unincorporated - stevenson ranch,0
 04-01,city/community,unincorporated - stevenson ranch,0
+04-02,city/community,unincorporated - stevenson ranch,5
 03-28,city/community,unincorporated - sun village,0
 03-29,city/community,unincorporated - sun village,0
 03-30,city/community,unincorporated - sun village,0
 03-31,city/community,unincorporated - sun village,0
 04-01,city/community,unincorporated - sun village,0
+04-02,city/community,unincorporated - sun village,0
 03-28,city/community,unincorporated - sunrise village,0
 03-29,city/community,unincorporated - sunrise village,0
 03-30,city/community,unincorporated - sunrise village,0
 03-31,city/community,unincorporated - sunrise village,0
 04-01,city/community,unincorporated - sunrise village,0
+04-02,city/community,unincorporated - sunrise village,0
 03-28,city/community,unincorporated - twin lakes/oat mountain,0
 03-29,city/community,unincorporated - twin lakes/oat mountain,0
 03-30,city/community,unincorporated - twin lakes/oat mountain,0
 03-31,city/community,unincorporated - twin lakes/oat mountain,0
 04-01,city/community,unincorporated - twin lakes/oat mountain,0
+04-02,city/community,unincorporated - twin lakes/oat mountain,0
 03-31,city/community,unincorporated - universal city,0
 04-01,city/community,unincorporated - universal city,0
+04-02,city/community,unincorporated - universal city,0
 03-28,city/community,unincorporated - val verde,0
 03-29,city/community,unincorporated - val verde,0
 03-30,city/community,unincorporated - val verde,0
 03-31,city/community,unincorporated - val verde,0
 04-01,city/community,unincorporated - val verde,0
+04-02,city/community,unincorporated - val verde,0
 03-28,city/community,unincorporated - valencia,0
 03-29,city/community,unincorporated - valencia,0
 03-30,city/community,unincorporated - valencia,0
 03-31,city/community,unincorporated - valencia,0
 04-01,city/community,unincorporated - valencia,0
+04-02,city/community,unincorporated - valencia,0
 03-28,city/community,unincorporated - valinda,0
 03-29,city/community,unincorporated - valinda,0
 03-30,city/community,unincorporated - valinda,0
 03-31,city/community,unincorporated - valinda,0
 04-01,city/community,unincorporated - valinda,0
+04-02,city/community,unincorporated - valinda,0
 03-28,city/community,unincorporated - view park/windsor hills,0
 03-29,city/community,unincorporated - view park/windsor hills,0
 03-30,city/community,unincorporated - view park/windsor hills,0
 03-31,city/community,unincorporated - view park/windsor hills,0
 04-01,city/community,unincorporated - view park/windsor hills,7
+04-02,city/community,unincorporated - view park/windsor hills,7
 03-31,city/community,unincorporated - walnut,0
 04-01,city/community,unincorporated - walnut,0
+04-02,city/community,unincorporated - walnut,0
 03-28,city/community,unincorporated - walnut park,0
 03-29,city/community,unincorporated - walnut park,0
 03-30,city/community,unincorporated - walnut park,0
 03-31,city/community,unincorporated - walnut park,0
 04-01,city/community,unincorporated - walnut park,0
+04-02,city/community,unincorporated - walnut park,0
 03-28,city/community,unincorporated - west antelope valley,0
 03-29,city/community,unincorporated - west antelope valley,0
 03-30,city/community,unincorporated - west antelope valley,0
 03-31,city/community,unincorporated - west antelope valley,0
 04-01,city/community,unincorporated - west antelope valley,0
+04-02,city/community,unincorporated - west antelope valley,0
 03-28,city/community,unincorporated - west carson,6
 03-29,city/community,unincorporated - west carson,7
 03-30,city/community,unincorporated - west carson,8
 03-31,city/community,unincorporated - west carson,9
 04-01,city/community,unincorporated - west carson,11
+04-02,city/community,unincorporated - west carson,11
 03-31,city/community,unincorporated - west chatsworth,0
 04-01,city/community,unincorporated - west chatsworth,0
+04-02,city/community,unincorporated - west chatsworth,0
 03-28,city/community,unincorporated - west la,0
 03-29,city/community,unincorporated - west la,0
 03-30,city/community,unincorporated - west la,0
 03-31,city/community,unincorporated - west la,0
 04-01,city/community,unincorporated - west la,0
+04-02,city/community,unincorporated - west la,0
 03-28,city/community,unincorporated - west puente valley,0
 03-29,city/community,unincorporated - west puente valley,0
 03-30,city/community,unincorporated - west puente valley,0
 03-31,city/community,unincorporated - west puente valley,0
 04-01,city/community,unincorporated - west puente valley,0
+04-02,city/community,unincorporated - west puente valley,0
 03-28,city/community,unincorporated - west rancho dominguez,0
 03-29,city/community,unincorporated - west rancho dominguez,0
 03-30,city/community,unincorporated - west rancho dominguez,0
 03-31,city/community,unincorporated - west rancho dominguez,0
 04-01,city/community,unincorporated - west rancho dominguez,0
+04-02,city/community,unincorporated - west rancho dominguez,0
 03-28,city/community,unincorporated - west whittier/los nietos,0
 03-29,city/community,unincorporated - west whittier/los nietos,0
 03-30,city/community,unincorporated - west whittier/los nietos,0
 03-31,city/community,unincorporated - west whittier/los nietos,0
 04-01,city/community,unincorporated - west whittier/los nietos,1
+04-02,city/community,unincorporated - west whittier/los nietos,2
 03-28,city/community,unincorporated - westfield/academy hills,0
 03-29,city/community,unincorporated - westfield/academy hills,0
 03-30,city/community,unincorporated - westfield/academy hills,0
 03-31,city/community,unincorporated - westfield/academy hills,0
 04-01,city/community,unincorporated - westfield/academy hills,0
+04-02,city/community,unincorporated - westfield/academy hills,0
 03-28,city/community,unincorporated - westhills,0
 03-29,city/community,unincorporated - westhills,0
 03-30,city/community,unincorporated - westhills,0
 03-31,city/community,unincorporated - westhills,0
 04-01,city/community,unincorporated - westhills,0
+04-02,city/community,unincorporated - westhills,0
 03-28,city/community,unincorporated - white fence farms,0
 03-29,city/community,unincorporated - white fence farms,0
 03-30,city/community,unincorporated - white fence farms,0
 03-31,city/community,unincorporated - white fence farms,0
 04-01,city/community,unincorporated - white fence farms,0
+04-02,city/community,unincorporated - white fence farms,0
 03-28,city/community,unincorporated - whittier,0
 03-29,city/community,unincorporated - whittier,0
 03-30,city/community,unincorporated - whittier,0
 03-31,city/community,unincorporated - whittier,0
 04-01,city/community,unincorporated - whittier,0
+04-02,city/community,unincorporated - whittier,0
 03-31,city/community,unincorporated - whittier narrows,0
 04-01,city/community,unincorporated - whittier narrows,0
+04-02,city/community,unincorporated - whittier narrows,0
 03-28,city/community,unincorporated - willowbrook,1
 03-29,city/community,unincorporated - willowbrook,1
 03-30,city/community,unincorporated - willowbrook,2
 03-31,city/community,unincorporated - willowbrook,2
 04-01,city/community,unincorporated - willowbrook,5
+04-02,city/community,unincorporated - willowbrook,6
 03-28,city/community,unincorporated - wiseburn,0
 03-29,city/community,unincorporated - wiseburn,0
 03-30,city/community,unincorporated - wiseburn,0
 03-31,city/community,unincorporated - wiseburn,0
 04-01,city/community,unincorporated - wiseburn,0
+04-02,city/community,unincorporated - wiseburn,0
 03-28,deaths,long beach,1
 03-29,deaths,long beach,1
 03-30,deaths,long beach,1
 03-31,deaths,long beach,1
 04-01,deaths,long beach,1
+04-02,deaths,long beach,1
 03-28,deaths,los angeles county (excl. lb and pas),31
 03-29,deaths,los angeles county (excl. lb and pas),36
 03-30,deaths,los angeles county (excl. lb and pas),43
 03-31,deaths,los angeles county (excl. lb and pas),53
 04-01,deaths,los angeles county (excl. lb and pas),64
+04-02,deaths,los angeles county (excl. lb and pas),77
 03-28,deaths,pasadena,0
 03-29,deaths,pasadena,0
 03-30,deaths,pasadena,0
 03-31,deaths,pasadena,0
 04-01,deaths,pasadena,0
+04-02,deaths,pasadena,0
 03-28,hospitalization,hospitalized (ever),398
 03-29,hospitalization,hospitalized (ever),453
 03-30,hospitalization,hospitalized (ever),492
 03-31,hospitalization,hospitalized (ever),594
 04-01,hospitalization,hospitalized (ever),733
+04-02,hospitalization,hospitalized (ever),879
 03-28,laboratory confirmed cases,long beach,75
 03-29,laboratory confirmed cases,long beach,88
 03-30,laboratory confirmed cases,long beach,99
 03-31,laboratory confirmed cases,long beach,115
 04-01,laboratory confirmed cases,long beach,133
+04-02,laboratory confirmed cases,long beach,139
 03-28,laboratory confirmed cases,los angeles county (excl. lb and pas),1720
 03-29,laboratory confirmed cases,los angeles county (excl. lb and pas),2038
 03-30,laboratory confirmed cases,los angeles county (excl. lb and pas),2365
 03-31,laboratory confirmed cases,los angeles county (excl. lb and pas),2871
 04-01,laboratory confirmed cases,los angeles county (excl. lb and pas),3352
+04-02,laboratory confirmed cases,los angeles county (excl. lb and pas),3869
 03-28,laboratory confirmed cases,pasadena,9
 03-29,laboratory confirmed cases,pasadena,10
 03-30,laboratory confirmed cases,pasadena,10
 03-31,laboratory confirmed cases,pasadena,25
 04-01,laboratory confirmed cases,pasadena,33
+04-02,laboratory confirmed cases,pasadena,37
 03-28,under investigation,under investigation,154
 03-29,under investigation,under investigation,184
 03-30,under investigation,under investigation,222
 03-31,under investigation,under investigation,309
 04-01,under investigation,under investigation,394
+04-02,under investigation,under investigation,505
