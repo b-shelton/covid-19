@@ -44,9 +44,9 @@ def county_covid_scraper():
     caption = soup.find_all('caption')[0].get_text()
     month = caption.rsplit('/', 1)[0].rsplit(' ', 1)[1]
     day = re.sub('[^0-9]', '', caption.rsplit(month+'/', 1)[1][0:2])
-    if len(day) == 1:
-        day = day.zfill(2)
+    day = day.zfill(2)
     date = month + '-' + day
+    date = date.zfill(5)
 
     '''
     If the date of the county website is greater than the max date in our tracker,
