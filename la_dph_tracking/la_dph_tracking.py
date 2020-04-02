@@ -13,7 +13,7 @@ Author: Brandon Shelton
 Last update: 2020-04-01
 '''
 
-# set path to save output file and update log file
+# Set path to save output file and update log file
 opath = 'covid-19/la_dph_tracking/'
 
 #import the necessary packages
