@@ -19,6 +19,7 @@ opath = 'covid-19/la_dph_tracking/'
 #import the necessary packages
 import requests
 from bs4 import BeautifulSoup
+import re
 import pandas as pd
 import numpy as np
 from datetime import datetime
@@ -42,7 +43,10 @@ def county_covid_scraper():
     # get the date of the county website's last update
     caption = soup.find_all('caption')[0].get_text()
     month = caption.rsplit('/', 1)[0].rsplit(' ', 1)[1]
-    date = month + '-' + caption.rsplit(month, 1)[1][1:3]
+    day = re.sub('[^0-9]', '', caption.rsplit(month+'/', 1)[1][0:2])
+    if len(day) == 1:
+        day = day.zfill(2)
+    date = month + '-' + day
 
     '''
     If the date of the county website is greater than the max date in our tracker,
