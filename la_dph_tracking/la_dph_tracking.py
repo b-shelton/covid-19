@@ -56,14 +56,25 @@ def county_covid_scraper():
 
         # Isolate the row elements and values
         table = soup.find_all('table', class_ = 'table table-striped table-bordered table-sm')[0]
-        rows = table.find_all('th', scope = 'row')
-        amounts = table.find_all('td')
+        rows = table.find_all('td')
+
+        lister = [x.get_text() for x in rows]
+        ndata = pd.DataFrame({'rows': lister})
+        ndata['count'] = ndata['rows'].shift(periods = -1)
+
+        # only keep records where 'rows' contains alpha characters
+        ndata = ndata[ndata['rows'].str.contains(('[a-zA-Z]'), regex = True)]
+        ndata['rows'] = ndata['rows'].str.lower()
+
+        # change '--' to zeros
+        ndata['count'] = ndata['count'].replace('--', 0)
 
         # check these manually every day to make sure they remain consistent
         headers = ['deaths',
                    'age group',
+                   'gender',
                    'hospitalization',
-                   'city/community',
+                   'city / community',
                    'under investigation']
 
         df = pd.DataFrame({'section': [], 'row_name': [], 'count': []})
@@ -74,9 +85,9 @@ def county_covid_scraper():
             row_amounts = []
 
             # loop through each row in the table and assign the appropriate section header
-            for i in range(0, len(rows)):
-                field = rows[i].get_text().lower()
-                count = amounts[i*2].get_text()
+            for i in range(0, len(ndata)):
+                field = ndata['rows'].iloc[i]
+                count = ndata['count'].iloc[i]
 
                 # skip all combinations of previously identified header/name/count combos
                 if len(df[(df['section'].isin(['laboratory confirmed cases'] + headers[0:h]))
@@ -108,13 +119,18 @@ def county_covid_scraper():
 
         # appropriately name the last section
         df = df.reset_index(drop = True)
-        last_section = df.index[df['row_name'].str.contains(headers[-1]) == True][0]
+        last_sec = df.index[df['row_name'].str.contains(headers[-1]) == True]
+        last_section = last_sec[len(last_sec)-1]
         df.loc[last_section: len(df), 'section'] = headers[-1]
+
+        # remove the rows that do not include numeric values in count
+        df = df[~df['count'].isnull()]
 
         # add update date
         df['date'] = [date] * len(df)
 
         # format as much as possible
+        df['section'] = df['section'].str.replace(' / ', '/')
         df['name_length'] = df['row_name'].map(len)
         df['row_name'] = np.where(df['name_length'] == 1, # remove special characters
                                   '',
@@ -122,7 +138,6 @@ def county_covid_scraper():
         df['row_name'] = df['row_name'].str.replace('*', '')
         df['row_name'] = df['row_name'].map(lambda x: x.lstrip('- '))
         df['count'] = df['count'].str.replace('*', '')
-        df['count'] = df['count'].str.replace('--', '0')
 
         # only keep rows with numbers in 'counts' column
         df = df[df['count'].str.isdigit() == True]
