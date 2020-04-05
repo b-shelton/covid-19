@@ -74,7 +74,7 @@ def county_covid_scraper():
                    'age group',
                    'gender',
                    'hospitalization',
-                   'city / community',
+                   'city/community',
                    'under investigation']
 
         df = pd.DataFrame({'section': [], 'row_name': [], 'count': []})
